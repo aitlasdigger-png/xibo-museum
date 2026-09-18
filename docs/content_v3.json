@@ -1,0 +1,1381 @@
+{
+  "version": "3.0",
+  "source": "郝园林《西陲屏藩——清代伊犁河谷驻防城的考古学研究》，科学出版社2023",
+  "migration": {
+    "why": {
+      "title_zh": "为什么是锡伯，为什么是伊犁",
+      "title_en": "Why the Xibe, and Why Ili",
+      "lead_zh": "乾隆二十四年（1759），清廷平定准噶尔部及大小和卓，天山南北归入版图。但准噶尔故地“其俗皆逐水草，无城郭”，万里疆土几成空旷。如何守住这片土地，成为帝国最紧迫的问题。",
+      "lead_en": "In 1759 the Qing court defeated the Dzungar khanate and the Khoja rebellion, bringing the lands north and south of the Tianshan into the empire. But the old Dzungar country was a land of nomads — \"they follow water and grass, and have no walled towns\" — and the vast frontier lay nearly empty. How to hold it became the empire's most urgent question.",
+      "scenes": [
+        {
+          "id": "pacification",
+          "year": "1759",
+          "title_zh": "空旷的疆土",
+          "title_en": "An Empty Frontier",
+          "text_zh": "准噶尔汗国覆灭后，伊犁河谷只剩下金顶寺、银顶寺等少量固定建筑。清廷面对的是一片没有城郭、没有定居人口的西部疆土。",
+          "text_en": "After the fall of the Dzungar khanate, the Ili valley held almost no permanent structures beyond the Golden and Silver temples. The court faced a western territory without towns, without settled population.",
+          "sources": [
+            "《西陲屏藩》第三章"
+          ],
+          "image_hint": "Vast empty Ili valley grassland at dusk, distant Tianshan snow peaks, ruins of a Buddhist temple, no people, 18th-century Central Asian landscape painting style"
+        },
+        {
+          "id": "general",
+          "year": "1762",
+          "title_zh": "伊犁将军与第一座城",
+          "title_en": "The Ili General and the First Town",
+          "text_zh": "乾隆二十七年（1762），清廷设伊犁将军，统辖全疆军政，将军初驻绥定城。在此之前一年，阿桂已奏建塔勒奇城——伊犁河谷第一座驻防城，扼守果子沟通道。筑城与移民，从此成为帝国经营新疆的基本方式。",
+          "text_en": "In 1762 the court created the post of Ili General, commanding military and civil affairs across the whole region, first seated at Suiding. A year earlier, Agui had already memorialised to build Taleqi — the valley's first garrison town, guarding the Guozigou pass. Building towns and moving people became the empire's basic way of holding Xinjiang.",
+          "sources": [
+            "《清高宗实录》",
+            "《西陲屏藩》第三章"
+          ],
+          "image_hint": "Qing dynasty officials and banner soldiers surveying a construction site on a river terrace, rammed earth walls rising, Tianshan mountains behind, documentary painting style"
+        },
+        {
+          "id": "four_battalions",
+          "year": "1764",
+          "title_zh": "四营移驻",
+          "title_en": "Four Battalions Move West",
+          "text_zh": "乾隆二十九年（1764），清廷令索伦、察哈尔、厄鲁特、锡伯四营官兵携眷移驻伊犁：东北有察哈尔，西北有索伦，西南有锡伯，自西南至东南有厄鲁特。锡伯营自盛京启程，次年抵达，被安置在伊犁河南岸——这支来自东北的队伍，从此再也没有回到故乡。",
+          "text_en": "In 1764 the court ordered four battalions — Solon, Chahar, Oirat and Xibe — to move to Ili with their families: the Chahar to the northeast, the Solon to the northwest, the Xibe to the southwest, the Oirat from southwest to southeast. The Xibe set out from Shengjing (Mukden) and arrived the following year, to be settled on the south bank of the Ili River. They would never return to their homeland.",
+          "sources": [
+            "《清高宗实录》乾隆二十九年条",
+            "《西陲屏藩》第三章"
+          ],
+          "image_hint": "Long caravan of horse carts, camels and families crossing a steppe at dawn, Xibe banner soldiers in Qing dress, vast Mongolian grassland, epic but restrained, muted earth tones"
+        }
+      ]
+    },
+    "stops": [
+      {
+        "id": "shenyang",
+        "name_zh": "盛京（沈阳）",
+        "name_en": "Shengjing (Mukden)",
+        "year": "1764",
+        "text_zh": "乾隆二十九年，清廷从盛京抽调锡伯官兵奔赴伊犁。这是一次携眷移驻：按《清实录》的筹划，锡伯兵“约计千名作一昂吉”，连同家眷共三千余口，编设佐领，铸给关防图记——他们不是一支远征军，而是一座被整体搬走的村庄。",
+        "text_en": "In 1764 the court drew Xibe officers and soldiers from Shengjing and sent them to Ili. It was a migration with families: court papers reckoned the Xibe troops \"about a thousand men to form one company (anggi)\", together with dependants over three thousand souls, organised into companies with seals of office cast for them. Not an expedition — a village transplanted whole.",
+        "sources": [
+          "《清高宗实录》卷七〇七，乾隆二十九年三月戊寅条"
+        ],
+        "image_hint": "18th century Mukden (Shenyang) city gate at dawn, Xibe families with ox carts and belongings assembling, banner soldiers saying farewell, spring light, documentary realism"
+      },
+      {
+        "id": "north_of_beijing",
+        "name_zh": "出关北上",
+        "name_en": "Out Through the Passes",
+        "text_zh": "队伍离开辽东故土，沿驿路向西北行进。在他们的前方，是横跨整个亚洲北部的驿路与台站体系——清帝国调动人口与物资的血管。",
+        "text_en": "The column left the old Liaodong homeland and turned northwest along the post roads. Ahead lay the relay and staging-post system spanning northern Asia — the vessels through which the Qing empire moved people and supplies.",
+        "sources": [
+          "《清史稿·兵志》（台站制度）"
+        ],
+        "image_hint": "Long convoy of ox carts on a dirt road through northern Chinese farmland turning to steppe, morning mist, muted palette, 18th century"
+      },
+      {
+        "id": "zhangjiakou",
+        "name_zh": "张家口外",
+        "name_en": "Beyond Zhangjiakou",
+        "text_zh": "同一年，另一支队伍也在这里启程：察哈尔营自张家口外移驻伊犁，后来游牧于果子沟、赛里木湖与博罗塔拉一带。四营之中，锡伯与察哈尔都要先穿越整个蒙古高原。",
+        "text_en": "That same year another column set out from here: the Chahar battalion moved from beyond Zhangjiakou to Ili, later pasturing around the Guozigou, Sayram Lake and Bortala. Of the four battalions, Xibe and Chahar both had to cross the entire Mongolian plateau first.",
+        "sources": [
+          "《西陲屏藩》第三章（四营移驻）"
+        ],
+        "image_hint": "Mongolian steppe horizon with a caravan of camels and carts, herders on horseback, huge sky, late afternoon golden light, epic landscape"
+      },
+      {
+        "id": "urga",
+        "name_zh": "库伦",
+        "name_en": "Urga",
+        "text_zh": "穿越喀尔喀蒙古的草原与戈壁。为供应这支队伍，朝廷专门调整了牲畜调拨：原拟解送喀尔喀四部落的一万八千只羊被截留，另由成衮扎布再办一万二千只，在下一个大站交给锡伯兵带往伊犁。",
+        "text_en": "Across the grasslands and gobi of Khalkha Mongolia. To provision the column, the court redirected its livestock quotas: eighteen thousand sheep originally bound for the four Khalkha aimags were held back, and Cherengomb was ordered to procure twelve thousand more — all to be handed to the Xibe troops at the next great station for the drive to Ili.",
+        "sources": [
+          "《清高宗实录》卷七〇七，乾隆二十九年三月戊寅条"
+        ],
+        "image_hint": "Vast Khalkha Mongolian grassland with sheep flocks and a distant caravan, rolling green hills, dramatic clouds, 18th century Central Asia"
+      },
+      {
+        "id": "uliastai",
+        "name_zh": "乌里雅苏台",
+        "name_en": "Uliastai",
+        "text_zh": "西迁路上最重要的一次补给。三万只羊在此交割——“于兵丁等至乌里雅苏台时，交给带往”；另从哈萨克贸易中酌买一万只，留伊犁备用。按定例，锡伯、厄鲁特兵“每兵给羊二十五只”。从此，这支队伍不只是走路，还要赶着整个冬天的口粮赶路。",
+        "text_en": "The most important resupply of the whole journey. Thirty thousand sheep changed hands here — \"to be delivered when the soldiers reach Uliastai, for them to drive onward\" — while another ten thousand were to be bought through the Kazakh trade and kept at Ili. By regulation each Xibe and Oirat soldier received twenty-five sheep. From here on, the column was not just marching; it was driving its winter rations along with it.",
+        "sources": [
+          "《清高宗实录》卷七〇七，乾隆二十九年三月戊寅条"
+        ],
+        "image_hint": "Military sheep handover at a frontier garrison town in Mongolia, thousands of sheep, quartermasters with ledgers, Xibe soldiers receiving flocks, dusty yard, late summer"
+      },
+      {
+        "id": "khovd",
+        "name_zh": "科布多",
+        "name_en": "Khovd",
+        "text_zh": "蒙古高原的最后一段。再往前，就是准噶尔故地的边缘——二十年前还是汗国心脏的地方，如今是帝国最西的军政前哨。",
+        "text_en": "The last stretch of the Mongolian plateau. Beyond lay the rim of old Dzungaria — the heart of a khanate twenty years before, now the empire's westernmost military frontier.",
+        "sources": [
+          "《西陲屏藩》第三章"
+        ],
+        "image_hint": "Harsh gobi desert edge with rocky hills, exhausted caravan of ox carts and sheep, distant snow mountains appearing, austere beauty"
+      },
+      {
+        "id": "tacheng",
+        "name_zh": "塔尔巴哈台",
+        "name_en": "Tarbagatai",
+        "text_zh": "沿准噶尔盆地西缘南转。塔尔巴哈台与伊犁同为北路军政要地，后来同开为与俄国通商之城。队伍已能看到天山余脉的雪线。",
+        "text_en": "The column turned south along the western rim of the Dzungarian basin. Tarbagatai and Ili were the twin military anchors of the northern route, and later both were opened to trade with Russia. The snow line of the Tianshan was now in sight.",
+        "sources": [
+          "《西陲屏藩》第七章（伊犁、塔尔巴哈台通商）"
+        ],
+        "image_hint": "Caravan turning south along basin edge, first view of Tianshan snow range in distance, autumn grassland, eagles overhead"
+      },
+      {
+        "id": "ili",
+        "name_zh": "伊犁河南岸",
+        "name_en": "South Bank of the Ili",
+        "year": "1765",
+        "text_zh": "次年，锡伯营抵达伊犁，驻于伊犁河南岸。伊犁将军明瑞早已为他们拟定管理制度：初编六个牛录，其中四牛录各领催披甲一百六十七人，二牛录各一百六十六人；后人口繁衍，增为八牛录，以为八旗。他们沿绰豁尔渠“因地自行搭盖窝棚”，各筑城堡——西迁的终点，成为屯戍的起点。",
+        "text_en": "The following year the Xibe battalion reached Ili and was stationed on the river's south bank. The Ili General Mingrui had already drafted their regulations: six companies (niru) at first — four of 167 armoured men, two of 166 — later, as families grew, expanded to eight niru as the eight banners. Along the Qohqar canal they \"put up their own shelters where the land allowed\", and each company built its own fort. The end of the migration was the beginning of the garrison.",
+        "sources": [
+          "《清高宗实录》乾隆二十九年条",
+          "《西陲屏藩》第三章"
+        ],
+        "image_hint": "Arrival scene on the south bank of the wide Ili river, families unloading carts, soldiers marking out building plots, poplar trees, snow mountains across the river, hopeful dawn light"
+      }
+    ],
+    "numbers": [
+      {
+        "value": "1764",
+        "label_zh": "自盛京启程",
+        "label_en": "Departure from Shengjing"
+      },
+      {
+        "value": "约千名",
+        "label_zh": "锡伯披甲兵，连同家眷三千余口",
+        "label_en": "Armoured soldiers, with over 3,000 dependants"
+      },
+      {
+        "value": "30,000",
+        "label_zh": "在乌里雅苏台交割的羊只",
+        "label_en": "Sheep handed over at Uliastai"
+      },
+      {
+        "value": "25",
+        "label_zh": "每名士兵分得的羊",
+        "label_en": "Sheep allotted to each soldier"
+      },
+      {
+        "value": "6 → 8",
+        "label_zh": "初编牛录与后来的八旗",
+        "label_en": "Companies first organised, later eight banners"
+      },
+      {
+        "value": "200余里",
+        "label_zh": "八座牛录城堡东西分布",
+        "label_en": "East-west spread of the eight banner forts"
+      }
+    ]
+  },
+  "cities": [
+    {
+      "id": "taleqi",
+      "name_zh": "塔勒奇城",
+      "name_en": "Taleqi",
+      "year": 1761,
+      "reign_zh": "乾隆二十六年",
+      "period": "founding",
+      "role_zh": "伊犁河谷第一座驻防城",
+      "role_en": "The valley's first garrison town",
+      "location_zh": "今霍城县三道河乡塔勒奇村，西临果子沟河",
+      "location_en": "Taleqi village, Sandaohe, Huocheng County, west of the Guozigou river",
+      "dims_zh": "始建周一里五分六厘（约900米），高一丈（3.2米）",
+      "dims_en": "Originally about 900 m in circumference, walls 3.2 m high",
+      "gates": [],
+      "story_zh": "乾隆二十六年（1761），伊犁尚未设将军，阿桂奏建了这座屯兵小堡——伊犁河谷驻防城体系的起点。城以塔勒奇河、塔勒奇山得名，扼守果子沟通道：从天山以北进入伊犁，必先经过这里。初建的塔勒奇城很小，周一里五分六厘，约合九百米，只开东、南、西三门，更像一座兵站而非城市。但它确立了一个范式：先筑城，再驻兵，然后屯田、设卡、开市。此后二十年，八座更大的城沿河谷次第而起。同治三年（1864）三月，三道河两百余名起事者“扭锁开城，蜂拥而入”，塔勒奇成为伊犁九城中第一个遭到攻击的城。到清末，这里已“成废址，居民仅数家”。",
+      "story_en": "In 1761, before the post of Ili General even existed, Agui memorialised to build this small troop depot — the starting point of the valley's entire garrison system. Named for the Taleqi river and mountain, it guarded the Guozigou pass: anyone entering Ili from north of the Tianshan had to pass here. The first town was tiny — some 900 metres around, with only three gates, more a military post than a city. Yet it set the pattern: build a wall, station troops, then open farms, pickets and markets. Over the next twenty years eight larger towns rose along the valley. In 1864, Taleqi was the first of the nine towns to be attacked. By the late Qing it was \"a ruin, home to only a few households\".",
+      "remains_zh": "城址实测南北358米、东西322米。南墙已无存，西墙北段残高3.5米；南护城河遗迹宽约10米。1958年黄文弼考察时“城墙遗址尚保存完好”，如今城内已为农田，仅余断墙与角台。",
+      "remains_en": "The site measures 358 by 322 m. The south wall is gone; a northern stretch of the west wall survives at 3.5 m high, and the south moat trace is 10 m wide. When Huang Wenbi surveyed it in 1958 the walls were \"still well preserved\"; today the interior is farmland, with only broken ramparts and corner platforms left.",
+      "sources": [
+        "《西陲屏藩》第三章第一节",
+        "黄文弼《新疆考古发掘报告》",
+        "《新疆图志·道路志》"
+      ],
+      "image_hint": "Small square rammed-earth fort beside a mountain river, three gates, soldiers' huts, Guozigou valley entrance with cliffs, 1760s, sparse and austere"
+    },
+    {
+      "id": "suiding",
+      "name_zh": "绥定城",
+      "name_en": "Suiding",
+      "year": 1762,
+      "reign_zh": "乾隆二十七年",
+      "period": "founding",
+      "role_zh": "清廷在伊犁的第一个军政中心",
+      "role_en": "The first seat of Qing authority in Ili",
+      "location_zh": "今霍城县县城内，东临萨尔布拉克河",
+      "location_en": "Inside present-day Huocheng county town, east of the Sarbulak river",
+      "dims_zh": "周四里三分（约2.5公里），实测周长2390米",
+      "dims_en": "Recorded as 4.3 li; measured circumference 2,390 m",
+      "gates": [
+        {
+          "dir_zh": "东",
+          "dir_en": "East",
+          "name_zh": "仁熙",
+          "name_en": "Renxi"
+        },
+        {
+          "dir_zh": "南",
+          "dir_en": "South",
+          "name_zh": "利渠",
+          "name_en": "Liqu"
+        },
+        {
+          "dir_zh": "西",
+          "dir_en": "West",
+          "name_zh": "义集",
+          "name_en": "Yiji"
+        },
+        {
+          "dir_zh": "北",
+          "dir_en": "North",
+          "name_zh": "宁漠",
+          "name_en": "Ningmo"
+        }
+      ],
+      "story_zh": "乾隆二十七年（1762）二月二十五日兴工，七月初八日完竣——八百名兵丁用了不到半年，在乌哈尔里克筑起这座周四里三分的方城。速度本身就是宣示：新城落成之年，伊犁将军设立，初驻绥定，这里成为清廷统治全疆的第一个军政中心，管理屯田的总兵也驻于此。四门名字各含寓意：东仁熙、南利渠、西义集、北宁漠。惠远城建成后，将军衙署迁走，绥定退居副中心的角色，却在每一次大难后重新顶上来：1882年收复伊犁，惠远老城已毁，金顺即驻绥定城主持善后，绥定与瞻德的修筑用银二十二万余两，新城竣工前，伊犁将军一直寄驻于此。",
+      "story_en": "Work began on 25 February 1762 and finished on 8 July — eight hundred soldiers raised this square walled town at Uharik in under half a year. The speed itself was a statement. In the same year the Ili Generalship was created and first seated here, making Suiding the court's first military-civil centre for the whole region; the brigade commander managing the military farms was also based here. The gate names carried meanings: Renxi (Benevolent Radiance) east, Liqu (Favourable Canal) south, Yiji (Righteous Market) west, Ningmo (Pacifying the Desert) north. After Huiyuan was built the General moved out, and Suiding settled into a supporting role — yet after every catastrophe it stepped up again: when Ili was recovered in 1882 and Old Huiyuan lay in ruins, General Jinshun directed the reconstruction from Suiding, and the Generalship stayed here until the new city was ready.",
+      "remains_zh": "古城保存情况非常差，仅存北墙西段一小段与一座马面，残高4.5米，位于今朝阳北路与柳树巷子东路路口东南侧的大院内。墙体分段夯筑，4米以下夯层间夹杂芦苇、榆树枝——那是两千六百年前就传入中原的筑城法，在帝国最西端仍在使用。",
+      "remains_en": "Very little survives: a short stretch of the north wall and one bastion (mamian), 4.5 m high, in a courtyard southeast of today's Zhaoyang North Road crossing. The rammed-earth layers are interleaved with reeds and elm branches — a wall-building technique used in China for millennia, still practised at the empire's westernmost edge.",
+      "sources": [
+        "《钦定八旗通志》卷一一八",
+        "《新疆识略》卷四",
+        "《西陲屏藩》第三、四章"
+      ],
+      "image_hint": "Square Qing frontier walled town under construction, 800 soldiers ramming earth in wooden frames, surveyor with compass, Ili plain and mountains, 1762"
+    },
+    {
+      "id": "ningyuan",
+      "name_zh": "宁远城",
+      "name_en": "Ningyuan",
+      "year": 1762,
+      "reign_zh": "乾隆二十七年",
+      "period": "founding",
+      "role_zh": "回城，后来的区域中心（今伊宁市）",
+      "role_en": "The Muslim town — later the regional capital",
+      "location_zh": "今伊宁市市中心，南临伊犁河",
+      "location_en": "The city centre of today's Yining (Ghulja), on the Ili's north bank",
+      "dims_zh": "城高一丈六尺（5.12米），周四里七分（约2.7公里），实测2986米",
+      "dims_en": "Walls 5.12 m high, recorded circumference 4.7 li; measured 2,986 m",
+      "gates": [
+        {
+          "dir_zh": "东",
+          "dir_en": "East",
+          "name_zh": "景旭",
+          "name_en": "Jingxu"
+        },
+        {
+          "dir_zh": "南",
+          "dir_en": "South",
+          "name_zh": "嘉会",
+          "name_en": "Jiahui"
+        },
+        {
+          "dir_zh": "西",
+          "dir_en": "West",
+          "name_zh": "环瀛",
+          "name_en": "Huanying"
+        },
+        {
+          "dir_zh": "北",
+          "dir_en": "North",
+          "name_zh": "归极",
+          "name_en": "Guiji"
+        }
+      ],
+      "story_zh": "与绥定同年，清廷在固勒扎筑城，初名安远，后赐名宁远。这是一座“回城”：乌什、叶尔羌、和阗、哈密、吐鲁番等地的六千余户回民奉命迁来，由阿奇木伯克鄂罗木杂普统领，种田经商，供应军城。城有十六座马面、四座瓮城，十字大街贯通四门——东景旭、南嘉会、西环瀛、北归极。1864年，回变正是从宁远开始，此城成为起事者的大本营，并由此建起短暂的苏丹政权。1871年沙俄侵占伊犁后，宁远的命运陡然逆转：俄人“尽徙遣民于宁远”，拆各城材木在金顶寺、固尔札一带营建市廛“横亘几二十里”，宁远被重点经营。1881年条约又规定俄国领事与侨商居宁远南门外。九城之中，唯有它从驻防城一路长成今天的伊宁市。",
+      "story_en": "In the same year as Suiding, the court built a town at Gulja, first named Anyuan, then granted the name Ningyuan. It was the \"Muslim town\": over six thousand households of Turkic-speaking Muslims from Ush, Yarkand, Khotan, Hami and Turfan were relocated here under the Hakim Beg Oromujap, to farm, trade and supply the garrison cities. It had sixteen bastions, four barbicans and a cross-shaped main street. In 1864 the great revolt began precisely here, and Ningyuan became the rebels' stronghold and seat of a short-lived sultanate. After Russia seized Ili in 1871 its fortunes reversed again: the occupiers \"moved the remaining population into Ningyuan\", stripped timber from the other towns and built a commercial strip nearly twenty li long around Jinding Temple and Gulja. The 1881 treaty placed the Russian consul and merchants outside its south gate. Of the nine towns, only Ningyuan grew on to become today's city of Yining.",
+      "remains_zh": "宁远城早已无存。调查时唯见北门（归极门）遗址保护碑；借助1965年锁眼卫星影像，仍可复原出方形城郭、四门瓮城与十字街的完整格局——它就压在伊宁市的街道之下。",
+      "remains_en": "Nothing of Ningyuan stands today. Surveyors found only the protection stele at the site of the north gate (Guiji). But on 1965 spy-satellite imagery the square walls, four barbicans and cross street can still be traced in full — lying directly beneath the streets of modern Yining.",
+      "sources": [
+        "《新疆识略》卷四",
+        "《戡定新疆记》卷一",
+        "《清朝续文献通考》卷三二一"
+      ],
+      "image_hint": "Bustling 19th century Central Asian bazaar town with mosque and minaret, merchants with horses and carpets, Qing-era Ghulja, warm dust and poplar trees"
+    },
+    {
+      "id": "huiyuan-old",
+      "name_zh": "惠远老城",
+      "name_en": "Old Huiyuan",
+      "year": 1763,
+      "reign_zh": "乾隆二十八年",
+      "period": "height",
+      "role_zh": "伊犁将军驻地，九城之首",
+      "role_en": "Seat of the Ili General, first of the nine towns",
+      "location_zh": "今霍城县惠远镇南约5.5公里老城村，伊犁河北岸阶地",
+      "location_en": "Laocheng village, 5.5 km south of Huiyuan town, on the Ili's north-bank terrace",
+      "dims_zh": "周九里三分（5356.8米），高一丈四尺（4.48米）",
+      "dims_en": "9.3 li (5,356.8 m) in circumference, walls 4.48 m high",
+      "gates": [
+        {
+          "dir_zh": "东",
+          "dir_en": "East",
+          "name_zh": "景仁",
+          "name_en": "Jingren"
+        },
+        {
+          "dir_zh": "西",
+          "dir_en": "West",
+          "name_zh": "说泽",
+          "name_en": "Yueze"
+        },
+        {
+          "dir_zh": "南",
+          "dir_en": "South",
+          "name_zh": "宣闿",
+          "name_en": "Xuankai"
+        },
+        {
+          "dir_zh": "北",
+          "dir_en": "North",
+          "name_zh": "来安",
+          "name_en": "Lai'an"
+        }
+      ],
+      "story_zh": "乾隆二十八年（1763）开建，为安置热河、凉州、庄浪移来的满洲携眷兵；三十年，乾隆钦定城名“惠远”。这是九城之首：周九里三分，十字大街中心立钟鼓楼，将军衙署八十间，参赞衙署六十间，兵房九千一百八十四间，城上炮台二十四座，城外环以海壕。它不仅是军城，也是都会——南北大道两侧铺面房收租充公，北关官铺房八十间，西门外设贸易亭，哈萨克、布鲁特、安集延商人在此互市。洪亮吉写它：“谁跨明驼天半回，传呼布鲁特人来。牛羊十万鞭驱至，三日城西路不开。”徐松称之为“新疆之都会”。同治五年（1866）正月，起事者以炸药破城，将军明绪阖门殉难，“兵民死者数万”。1871年沙俄侵占后平毁房屋，伊犁河水又冲坏西南城垣。1882年清廷收复伊犁时，老城“仓库、官厅、兵房荡然无存”，遂被废弃。",
+      "story_en": "Begun in 1763 to house Manchu banner families transferred from Rehe, Liangzhou and Zhuanglang, the town received its name Huiyuan — \"Grace Reaching Afar\" — from the Qianlong emperor himself. First of the nine towns: 5.4 km of wall, a bell-and-drum tower at the crossing of the two great streets, eighty rooms for the General's yamen, 9,184 rooms of barracks, twenty-four gun platforms, and a moat ringing the walls. It was a city as much as a fortress: rental shops lined the avenues, a trade pavilion outside the west gate hosted Kazakh, Kirghiz and Andijani merchants. The exiled poet Hong Liangji wrote: \"Who rides a bright camel down from the sky? The Kirghiz are coming, the cry goes up. A hundred thousand head driven to market — for three days the west road cannot move.\" Xu Song called it \"the metropolis of Xinjiang\". In 1866 the walls were breached with explosives; General Mingxu died with his whole household, and \"tens of thousands of soldiers and civilians perished\". Russia's occupation flattened the houses; the Ili river ate the south-west walls. In 1882 the old city was abandoned.",
+      "remains_zh": "南墙、西墙已被伊犁河吞没，仅存北墙残段1340米、东墙残段850米。考古队勘探过北门瓮城、初建东门与将军衙署遗址；在城内西北角的村民家中，发现了一枚半球形石夯锤——筑城者的工具，留在了城的身体里。",
+      "remains_en": "The river has taken the south and west walls; 1,340 m of the north wall and 850 m of the east survive. Archaeologists have probed the north-gate barbican, the original east gate and the General's yamen site. In a villager's home inside the walls they found a hemispherical stone rammer — a builder's tool, left inside the city it built.",
+      "sources": [
+        "《钦定八旗通志》卷一一八",
+        "洪亮吉《伊犁纪事诗》",
+        "《清季外交史料》卷二六"
+      ],
+      "image_hint": "Grand Qing frontier capital at sunset, bell-and-drum tower over a crossroads, camel caravans and Kazakh traders outside the west gate, 1820s, golden light"
+    },
+    {
+      "id": "huining",
+      "name_zh": "惠宁城",
+      "name_en": "Huining",
+      "year": 1765,
+      "reign_zh": "乾隆三十年",
+      "period": "height",
+      "role_zh": "满营驻防城，九城双核之一",
+      "role_en": "Manchu garrison town, eastern core of the nine",
+      "location_zh": "今伊宁市巴彦岱镇，东临匹里青河",
+      "location_en": "Bayandai town, Yining, east of the Piliqing river",
+      "dims_zh": "周六里三分（3628.8米），高一丈四尺（4.48米）；嘉庆十年展筑后周七里",
+      "dims_en": "6.3 li (3,628.8 m), walls 4.48 m; extended to 7 li in 1805",
+      "gates": [
+        {
+          "dir_zh": "东",
+          "dir_en": "East",
+          "name_zh": "昌汇",
+          "name_en": "Changhui"
+        },
+        {
+          "dir_zh": "西",
+          "dir_en": "West",
+          "name_zh": "兆丰",
+          "name_en": "Zhaofeng"
+        },
+        {
+          "dir_zh": "南",
+          "dir_en": "South",
+          "name_zh": "遵轨",
+          "name_en": "Zungui"
+        },
+        {
+          "dir_zh": "北",
+          "dir_en": "North",
+          "name_zh": "承枢",
+          "name_en": "Chengshu"
+        }
+      ],
+      "story_zh": "乾隆三十年（1765），为收纳西安移驻的两千名满洲兵，明瑞在巴颜岱筹划了这座城。建城建得艰难：城墙先成，房屋未备，乾隆三十四年朝廷专门下谕催建，连筑房所需的两千五百斤熟铁都要从乌鲁木齐调运。五年后，五千二百余间住房与堆拨铺舍终于齐备。惠宁是九城第二座满城，与惠远并称“双核”：方形四门，十字街中心立四座牌楼，四条大街共有铺面房二百余间，城内设布铺、当铺、药铺，“俱照惠远城之例”。嘉庆十年又展筑西城。同治四年（1865），惠宁在回变中沦陷，领队大臣穆克登额“力竭阵亡，阖家殉难”；俄据时期，城内木材被拆往宁远营建市廛。清末，修复惠宁的方案终因经费不继而放弃。",
+      "story_en": "In 1765, to house two thousand Manchu bannermen transferred from Xi'an, Mingrui planned this town at Bayandai. It was hard to build: the walls went up first but the houses lagged, and in 1769 a special edict pressed the work on — even the 2,500 jin of wrought iron for fittings had to be freighted from Urumqi. Five years on, 5,200 rooms of housing and duty quarters stood ready. Huining was the second Manchu town, the eastern pole of the \"dual core\" with Huiyuan: four gates, four memorial archways at the crossing, over two hundred shopfronts on the main streets, cloth stores and pawnshops \"all on the Huiyuan model\". In 1805 the west wall was extended. In 1865 the town fell in the revolt; the commandant Mukdenge \"died fighting, his whole family with him\". Under Russian occupation its timbers were stripped to build up Ningyuan. In the end, plans to restore Huining were abandoned for want of funds.",
+      "remains_zh": "三普时残墙总长2000余米，其中北墙约1500米、残高4.5米；西北角台尚存，规模较大。锁眼影像显示全城曾有六门，门外圆形瓮城清晰可辨——它是九城中少数至今仍能在地面上读出轮廓的满城。",
+      "remains_en": "At the third national survey, over 2,000 m of wall survived, including a 1,500 m north wall 4.5 m high and a large north-west corner platform. Satellite imagery shows the town once had six gates with round barbicans still legible — one of the few Manchu towns whose outline can still be read on the ground.",
+      "sources": [
+        "《新疆识略》卷四",
+        "《伊江汇览》",
+        "《西陲屏藩》第三、四章"
+      ],
+      "image_hint": "Manchu garrison town with four memorial archways at the crossroads, banner families in courtyard houses, shopfronts, morning market, 1790s Ili"
+    },
+    {
+      "id": "guangren",
+      "name_zh": "广仁城",
+      "name_en": "Guangren",
+      "year": 1780,
+      "reign_zh": "乾隆四十五年",
+      "period": "consolidation",
+      "role_zh": "绿营屯兵城，左营驻地",
+      "role_en": "Green Standard colony town, Left Battalion",
+      "location_zh": "今霍城县芦草沟镇，东临果子沟河",
+      "location_en": "Lucaogou town, Huocheng County, east of the Guozigou river",
+      "dims_zh": "高一丈三尺（4.16米），周三里六分（2073.6米），实测1905米",
+      "dims_en": "Walls 4.16 m high, recorded 3.6 li (2,073.6 m); measured 1,905 m",
+      "gates": [],
+      "story_zh": "乾隆四十三年（1778），伊犁将军伊勒图奏请把换防的绿营兵改为携眷移驻——士兵不再轮换，而是带着家眷永久扎根。四十四年，四座绿营城同时开建，次年落成，筑城的一千名绿营兵来自甘肃、宁夏，工程未动用官项。广仁城驻左营，地处乌可尔博尔苏克，与塔勒奇达坂、果子沟毗连，金顺后来称它为伊犁的“后路咽喉”。这些绿营兵既是军人也是农夫：他们筑城、屯田、守卡，把中原的筑城技术——版筑、夯层、瓮城——完整搬到了天山之下。考古学家注意到，伊犁驻防城“基本半年左右便可筑好一城”，凡参与修筑的官兵，均不同程度地得到了升迁。",
+      "story_en": "In 1778 the Ili General Iletu won approval to convert the rotating Green Standard garrisons into permanent settlers — soldiers would bring their families and stay for good. In 1779 four Green Standard towns were begun together and finished the next year, built by a thousand soldiers transferred from Gansu and Ningxia without drawing on official funds. Guangren held the Left Battalion at Uker Borsuk, adjoining the Taleqi pass and the Guozigou; Jinshun later called it the \"throat of the rear road\". These soldier-farmers built walls, opened fields and manned pickets, transplanting Central Plains wall-building wholesale — rammed layers, barbicans, bastions — beneath the Tianshan. Archaeologists note that a town could be raised in about half a year, and officers and men who took part were rewarded with promotion.",
+      "remains_zh": "古城保存很差，仅残存北门瓮城一段，残高3.8米。锁眼影像上早年城墙与东西干道仍清晰：正方形城郭，实测周长1905米，海拔793米，是九城中地势最高的一座。",
+      "remains_en": "Little survives but a 3.8 m-high stump of the north-gate barbican. On 1965 satellite imagery the square walls and east-west avenue are still clear: measured circumference 1,905 m. At 793 m it is the highest-sited of the nine towns.",
+      "sources": [
+        "《钦定八旗通志》卷一一八",
+        "《新疆识略》卷四",
+        "《西陲屏藩》第三、四章"
+      ],
+      "image_hint": "Green Standard soldier-farmers building a rammed earth wall, carts of earth, geese and fields outside half-built town, high valley terrace, 1779"
+    },
+    {
+      "id": "zhande",
+      "name_zh": "瞻德城",
+      "name_en": "Zhande",
+      "year": 1780,
+      "reign_zh": "乾隆四十五年",
+      "period": "consolidation",
+      "role_zh": "绿营屯兵城，右营驻地",
+      "role_en": "Green Standard colony town, Right Battalion",
+      "location_zh": "今霍城县清水河镇，东临头道河",
+      "location_en": "Qingshuihe town, Huocheng County, east of the Toudao river",
+      "dims_zh": "方形，实测周长1913米，墙体现高可达5米",
+      "dims_en": "Square; measured circumference 1,913 m, walls surviving up to 5 m high",
+      "gates": [],
+      "story_zh": "瞻德城建在东察罕乌苏——蒙古语“白水”之地，即今清水河。作为四绿营城之一，它驻右营，与广仁同城开工、同年落成。同治五年（1866）二月，绥定、广仁、瞻德、塔尔奇四城在同一天相继陷落，“降于贼”，九城体系自此崩解。俄据时期瞻德被“付汉回居住”，城楼、女墙损坏，城垣多坍塌。1882年收复后，瞻德与绥定同批获修，是同治战乱后最早重建的两座城之一；修缮后的瞻德城内有兵营、射击场、教堂，也有不少空地——战争的痕迹与重建的秩序，并列在同一圈城墙里。",
+      "story_en": "Zhande was built at East Chahan Usu — \"white water\" in Mongolian, today's Qingshuihe. One of the four Green Standard towns, it held the Right Battalion, begun and finished in the same years as Guangren. In February 1866, Suiding, Guangren, Zhande and Taleqi fell on the same day — the nine-town system collapsed. Under Russian occupation the town was handed to Chinese and Muslim settlers, its gate towers and parapets broken. Recovered in 1882, Zhande was among the first two towns repaired, together with Suiding; the restored town held barracks, a firing range and a church, alongside empty ground — the marks of war and the order of rebuilding inside the same walls.",
+      "remains_zh": "南墙已无存，北墙与东墙保存稍好：东墙北部基本完整，残高5米；北门瓮城仅剩西边弧形墙。全城曾有四门四瓮城、八座马面，马面距角台与城门各约110米——军事几何学，至今可测。",
+      "remains_en": "The south wall is gone; the north and east walls fare better, the northern east wall largely complete at 5 m. Of the north-gate barbican only a western arc remains. The town once had four gates with barbicans and eight bastions, each 110 m from gate and corner tower — a military geometry still measurable today.",
+      "sources": [
+        "《戡定新疆记》卷一",
+        "《清季外交史料》卷二六",
+        "《西陲屏藩》第四章"
+      ],
+      "image_hint": "Restored Qing frontier town after war, soldiers repairing crenellations, church spire and barracks inside walls, scaffolding, 1880s Ili"
+    },
+    {
+      "id": "gongchen",
+      "name_zh": "拱宸城",
+      "name_en": "Gongchen",
+      "year": 1780,
+      "reign_zh": "乾隆四十五年",
+      "period": "consolidation",
+      "role_zh": "西北门户，霍尔果斯营驻地",
+      "role_en": "The north-west gate, Horgos Battalion",
+      "location_zh": "今霍尔果斯市，西临霍尔果斯河",
+      "location_en": "Horgos city, west of the Horgos river",
+      "dims_zh": "周三里七分（2131.2米），墙高一丈三尺，炮台八座",
+      "dims_en": "3.7 li (2,131.2 m) around, walls 4.16 m high, eight gun platforms",
+      "gates": [
+        {
+          "dir_zh": "东",
+          "dir_en": "East",
+          "name_zh": "寅晖",
+          "name_en": "Yinhui"
+        },
+        {
+          "dir_zh": "西",
+          "dir_en": "West",
+          "name_zh": "遵乐",
+          "name_en": "Zunle"
+        },
+        {
+          "dir_zh": "南",
+          "dir_en": "South",
+          "name_zh": "绥定",
+          "name_en": "Suiding"
+        }
+      ],
+      "story_zh": "拱宸城建在霍尔果斯，是伊犁九城最西边的一座，驻霍尔果斯营：参将一员，马、步兵各三百五十名，兵房一千四百间。“拱宸”意为拱卫北极星——在帝国舆图上，它就是那颗星最西的哨兵。同治五年的陷落序列里，拱宸撑到了最后：“惟拱宸坚守。四月，粮尽而陷，兵民被屠，自是伊犁辖境无一寸干净土矣。”俄据时期它被弃置，“倾圯殆尽”。但收复伊犁的奏折里，它第一个被点名：“霍尔果斯一城，形势扼要，尤所难缓。”1881年《中俄伊犁条约》重勘边界，霍尔果斯河以西划入俄境——拱宸城与新城外新设的十八处卡伦一起，从屯兵城变成了真正的国境线。",
+      "story_en": "Gongchen stood at Horgos, westernmost of the nine towns, garrisoned by the Horgos Battalion: a lieutenant-colonel, 350 cavalry and 350 infantry, 1,400 rooms of barracks. The name means \"cupping hands around the North Star\" — on the empire's map it was that star's farthest sentry. In the collapse of 1866 it held out longest: \"Gongchen alone held fast. In the fourth month its grain ran out and it fell; soldiers and people were slaughtered, and from then there was not an inch of clean soil left in Ili.\" Under Russian occupation it was abandoned to ruin. Yet in the recovery memorials it was named first: \"The town of Horgos, holding a vital point, brooks no delay.\" After the 1881 Treaty of Ili redrew the border along the Horgos river, Gongchen — with eighteen new pickets beyond the walls — turned from colony town into a true frontier line.",
+      "remains_zh": "仅存西墙残段与西北、西南角台；西墙南段残高3.6米，外侧可见后来加筑的1米厚墙体，夯层间夹有芦苇、树枝。城内十字街结构在锁眼影像上仍清晰，东西干道尤为明显。",
+      "remains_en": "Only stretches of the west wall and two corner platforms survive; the southern west-wall section stands 3.6 m, with a later one-metre-thick facing whose rammed layers hold reeds and branches. The cross-street plan is still clear on satellite imagery, the east-west avenue especially.",
+      "sources": [
+        "《为呈览伊犁新建霍尔果斯城图事图》（乾隆四十五年）",
+        "《戡定新疆记》卷一",
+        "《清季外交史料》卷二六"
+      ],
+      "image_hint": "Lone frontier fortress beside the Horgos river at the border, watch banners, soldiers on the wall at dusk, vast steppe to the west, melancholy grandeur"
+    },
+    {
+      "id": "xichun",
+      "name_zh": "熙春城",
+      "name_en": "Xichun",
+      "year": 1780,
+      "reign_zh": "乾隆四十五年",
+      "period": "consolidation",
+      "role_zh": "九城中最小的城",
+      "role_en": "Smallest of the nine towns",
+      "location_zh": "今伊宁市汉宾乡（巴彦岱一带），西临皮里青河",
+      "location_en": "Hanbin township, Yining, west of the Piliqing river",
+      "dims_zh": "高一丈（3.2米），周二里二分（1267.2米），实测1346米",
+      "dims_en": "Walls 3.2 m high, recorded 2.2 li (1,267.2 m); measured 1,346 m",
+      "gates": [],
+      "story_zh": "熙春城是九城中最小的一座，周长只有惠远的四分之一。它所在的汉宾乡，地名本身就藏着一段屯垦史：“汉宾”意为汉族士兵耕耘过的地方。在1864年的剧变中，回变军以宁远为大本营，“首先占领了熙春城，此后该城便一直由回变军控制”。耐人寻味的是它的战后命运：沙俄侵占期间，东面三城反而得到经营——左宗棠奏称“俄兵及商户均萃居东面惠宁、熙春、宁远三城”。最小的城，成了占领者选择的落脚点之一。收复之后，熙春与广仁一同“大加修补”，继续以民居小城的身份走进二十世纪，直到城墙最终平没于乡镇之中。",
+      "story_en": "Xichun was the smallest of the nine towns, its walls a quarter the length of Huiyuan's. The name of its township, Hanbin — \"Han guests\" — itself records the colony: the place where Han soldiers once tilled. In the upheaval of 1864, the rebels, based at Ningyuan, \"first occupied Xichun, and the town remained under their control thereafter\". Its postwar fate is curious: during the Russian occupation the three eastern towns were favoured instead — Zuo Zongtang reported that \"Russian troops and merchants clustered in the eastern towns of Huining, Xichun and Ningyuan\". The smallest town became one of the occupier's chosen footholds. After the recovery, Xichun and Guangren were \"greatly repaired\", living on as a modest township until its walls finally sank into the villages.",
+      "remains_zh": "熙春城现已无存。锁眼卫星影像上，早年四门门址清晰，东门外圆形瓮城直径约33米；城内十字街的南北大街，正是今天汉宾乡政府往东150米的那条南北道路——古城没有消失，只是变成了道路。",
+      "remains_en": "Nothing of Xichun survives above ground. On 1965 satellite imagery four gate sites are clear, the east barbican 33 m across; the town's north-south main street is precisely today's road 150 m east of the Hanbin township government. The old town has not vanished — it has become the roads.",
+      "sources": [
+        "《戡定新疆记》卷一",
+        "《左宗棠全集·奏稿七》",
+        "《西陲屏藩》第三、四章"
+      ],
+      "image_hint": "Tiny square walled town in fertile fields, farmers working up to the walls, poplars, smallest of nine, peaceful rural Ili, 19th century"
+    },
+    {
+      "id": "huiyuan-new-city",
+      "name_zh": "惠远新城",
+      "name_en": "New Huiyuan",
+      "year": 1882,
+      "reign_zh": "光绪八年",
+      "period": "reconstruction",
+      "role_zh": "收复伊犁后的将军驻地，九城中保存最好的一座",
+      "role_en": "The General's seat after the recovery — and the best preserved",
+      "location_zh": "今霍城县惠远镇新城村，伊犁河低阶地，地势高于老城",
+      "location_en": "Xincheng village, Huiyuan town — higher ground than the old city",
+      "dims_zh": "仍照九里三分之制（5356.8米），城高连垛口二丈三尺（7.36米）",
+      "dims_en": "Built to the old 9.3-li plan (5,356.8 m), walls 7.36 m to the parapet tops",
+      "gates": [],
+      "story_zh": "光绪八年（1882），清廷收复伊犁。老城已毁，伊犁将军金顺择“高敞处”另建新城，称其地“水抱山环，气脉颇觉团聚”。新城仍照九里三分之制——帝国刻意复制了自己的记忆。筑城一波三折：仅城墙与附属结构就约需银二十二万两，全城坛庙衙署兵房统计需银一百九十五万余两，而各省拨款“解到者仅及一半”。城墙筑竣后工程一度停工，直到1890年善后银两到位，1892年九月十八日方告竣工；城内仍有一半是空地，衙署官房“减多为少，改大为小”。次年八月，将军长庚终于入驻。同一笔善后款里，还修造了格登山碑亭，收检了惠远旧城、巴颜岱、霍尔果斯等地的遗骨，造起白骨塔。到民国年间，这里仍有“小北京”之目，会芳园、天福居两座酒楼“闻名中亚”。",
+      "story_en": "In 1882 the Qing recovered Ili. With the old city ruined, General Jinshun chose \"high, open ground\" for a new town, a place where \"waters embrace and mountains ring it\". The new city kept the old 9.3-li measure — the empire deliberately copying its own memory. The build was tortuous: the walls alone cost about 220,000 taels, and the full tally of temples, yamens and barracks came to nearly 1.96 million, while provincial funds \"arrived only by half\". Work stalled until relief silver reached Xinjiang in 1890; completion came on 18 September 1892, with half the city still empty ground and official buildings \"fewer and smaller than planned\". General Changgeng finally moved in the following year. The same funds built a stele pavilion at Gedeng Mountain and gathered the unburied bones of Old Huiyuan, Bayandai and Horgos into white-bone pagodas. Into the Republican era the town still kept its nickname \"Little Beijing\", its two restaurants famous across Central Asia.",
+      "remains_zh": "惠远新城是九城中保存最好的一座：城内将军衙署、钟鼓楼等遗存仍在，东门与北门的楼台、城楼已经修复。考古队对未修复的西门、南门做了勘探，瓮城墙基仍埋在住户院落的地下。",
+      "remains_en": "New Huiyuan is the best preserved of the nine: the General's yamen and the bell-and-drum tower still stand, and the east and north gate towers have been restored. Archaeologists probed the unrestored west and south gates, finding barbican foundations beneath the courtyards of village houses.",
+      "sources": [
+        "金顺《奏为改建惠远新城并开工日期事》",
+        "《清季外交史料》卷二六",
+        "《西陲屏藩》第三、四章"
+      ],
+      "image_hint": "Late Qing reconstructed frontier city, grand bell-and-drum tower, general's yamen with ceremonial gates, restaurants and shops, 1900s, lively but faded glory"
+    }
+  ],
+  "niulu_intro": {
+    "title_zh": "八旗八堡：伊犁河南岸的锡伯村落",
+    "title_en": "Eight Banners, Eight Forts: the Xibe Villages on the South Bank",
+    "text_zh": "锡伯营抵达伊犁后，初编六个牛录，后增至八个，以为八旗。八个牛录沿绰豁尔渠各自建城，时人记其布局：“锡伯营在伊犁河南岸，八旗八堡，屯耕而食，其地宽十数里至三四十里，东西长二百余里。”嘉庆以降，部分城堡随人口与水渠迁移；至光绪三十四年（1908），锡伯营大渠自分水口起“分饮八处牛录屯工，无余流”——一条渠，串起八个村庄，就是今天的察布查尔。这些城堡既是军营也是家园：城中央多有关帝庙，有的还有娘娘庙、靖远寺，以及锡伯人自己的祠庙。",
+    "text_en": "After reaching Ili the Xibe battalion was organised into six companies (niru), later expanded to eight as the eight banners. Each niru built its own fort along the Qohqar canal. A contemporary described the layout: \"The Xibe battalion lies on the south bank of the Ili, eight banners in eight forts, tilling to feed themselves, over ground ten to thirty or forty li wide and more than two hundred li east to west.\" From the Jiaqing reign some forts moved with population and canals; by 1908 the Xibe battalion's great canal \"watered all eight niru's fields, with nothing to spare\". One canal threading eight villages — today's Qapqal. The forts were both barracks and homes: most had a Guandi temple at their centre, some a Goddess temple or the Jingyuan lamasery, and shrines to the Xibe's own heroes.",
+    "sources": [
+      "《西陲屏藩》第三章（引《新疆识略》等）",
+      "《新疆图志》"
+    ]
+  },
+  "niulu": [
+    {
+      "id": "wuzhu-niru",
+      "order_zh": "头牛录",
+      "order_en": "1st Niru",
+      "name_zh": "乌珠牛录城堡",
+      "name_en": "Wuju Niru",
+      "location_zh": "今察布查尔锡伯自治县爱新舍里镇乌珠牛录村",
+      "location_en": "Wuju Niru village, Aixin Sheli town, Qapqal County",
+      "story_zh": "八堡最西的一座。民国文献记其“乾隆二十九年筑城，面积周围十五里，高一丈五尺”——这个“十五里”应为记误，实测城圈约5.9公里，已足够惊人：它不是一座城，而是一片围起来的乡野，近似倒三角形的城墙随地形弯曲，开东西二门，没有马面、角台、护城河。城中央原有关帝庙，现仅存大殿木构架。三牛录依拉齐村也被围在同一城圈内——两牛录共一城，是八堡中独一无二的情形。",
+      "story_en": "The westernmost of the eight forts. Republican-era sources claim walls \"fifteen li around\" — an exaggeration; the measured circuit is about 5.9 km, still astonishing: not a town but a walled countryside, its inverted-triangle rampart bending with the terrain, with east and west gates and none of the military furniture — no bastions, corner towers or moat — of the nine cities. A Guandi temple once stood at its centre; only the wooden frame of its main hall survives. The 3rd niru's village, Yilaqi, lies inside the same wall — two companies sharing one fort, unique among the eight.",
+      "remains_zh": "三普时仅存部分北墙，残高0.5～3.1米；关帝庙大殿木构架尚存（南北10米×东西9.6米）。",
+      "remains_en": "Only parts of the north wall survived at the third survey, 0.5–3.1 m high; the timber frame of the Guandi hall (10 × 9.6 m) still stands.",
+      "sources": [
+        "《河南县志·属地》",
+        "《西陲屏藩》第四章第二节"
+      ],
+      "image_hint": "Huge irregular walled village enclosure on the Ili plain, farmland inside earthen walls, two gates, Xibe farmhouses, poplars along canals"
+    },
+    {
+      "id": "jai-niru",
+      "order_zh": "二牛录",
+      "order_en": "2nd Niru",
+      "name_zh": "寨牛录城堡",
+      "name_en": "Jai Niru",
+      "location_zh": "今察布查尔锡伯自治县扎库齐牛录乡寨牛录村",
+      "location_en": "Jai Niru village, Jakuqi Niru township, Qapqal County",
+      "story_zh": "八堡最东的一座，民国文献称“乾隆年筑，周二公里，高一丈四尺”。城堡呈不规则方形，近似梯形，实测周长约1840米，是八堡中较小的一座；城内有十字形大街。20世纪60年代，城内居址多沿北墙、南墙分布——人们贴着墙根住，把田野留在中间。寨牛录保存较差，城墙基本无存，但“二牛录”的名字今天仍在使用：村庄的名字，就是两百年前的军籍。",
+      "story_en": "The easternmost fort, recorded in Republican sources as \"built in the Qianlong reign, two li around\". An irregular near-trapezoid of about 1,840 m, it is one of the smaller forts, with a cross-shaped main street. In the 1960s houses still clustered along the north and south walls, leaving the fields in the middle. Little of the wall survives, but the name \"2nd Niru\" is still in daily use — a village name that is a two-century-old military registration.",
+      "remains_zh": "古城保存情况较差，基本无存；锁眼影像可见梯形城圈与十字街。",
+      "remains_en": "Almost nothing survives; satellite imagery reveals the trapezoid circuit and cross streets.",
+      "sources": [
+        "《河南县志·属地》",
+        "《西陲屏藩》第四章第二节"
+      ],
+      "image_hint": "Small trapezoid earthen fort with cross streets, farmhouses along the walls, fields in the middle, Ili river plain"
+    },
+    {
+      "id": "yilaqi-niru",
+      "order_zh": "三牛录",
+      "order_en": "3rd Niru",
+      "name_zh": "依拉齐牛录城堡",
+      "name_en": "Yilaqi Niru",
+      "location_zh": "今察布查尔锡伯自治县爱新舍里镇依拉齐牛录村",
+      "location_en": "Yilaqi Niru village, Aixin Sheli town, Qapqal County",
+      "story_zh": "依拉齐与头牛录共处于乌珠牛录城圈之内，实为同一城址。城中央有依拉齐牛录的关帝庙，坐南向北——与一般寺庙坐北朝南相反，颇为少见。原庙由照壁、山门、配殿、忠义楼、大殿组成，沿南北中轴线铺开；现仅存大殿，砖木结构，约156平方米。一座庙的中轴线，就是一个牛录的礼仪中心：节庆、祭祀、议事，都在这里。",
+      "story_en": "Yilaqi shares the Wuju fort circuit with the 1st niru — the two are one site. At its centre stood the 3rd niru's Guandi temple, facing north — an unusual reversal of the usual south-facing rule. The complex once ran along a north-south axis: screen wall, gate, side halls, Loyalty tower, main hall. Only the main hall survives, 156 m² of brick and timber. A temple axis was a company's ceremonial centre: festivals, sacrifices, deliberations all happened there.",
+      "remains_zh": "关帝庙仅存大殿（南北14.85米×东西10.5米），砖木结构。",
+      "remains_en": "Only the main hall of the Guandi temple survives (14.85 × 10.5 m), brick-timber.",
+      "sources": [
+        "《西陲屏藩》第四章第二节"
+      ],
+      "image_hint": "Modest Qing dynasty temple hall in a walled Xibe village, brick and timber, painted beams faded, courtyard with old trees"
+    },
+    {
+      "id": "duiqi-niru",
+      "order_zh": "四牛录",
+      "order_en": "4th Niru",
+      "name_zh": "堆齐牛录城堡",
+      "name_en": "Duiqi Niru",
+      "location_zh": "今察布查尔锡伯自治县堆齐牛录乡堆齐牛录村",
+      "location_en": "Duiqi Niru village, Duiqi Niru township, Qapqal County",
+      "story_zh": "民国文献记堆齐牛录“嘉庆年筑，周二公里有奇，高一丈五尺，稍破坏，门三”——它建于嘉庆年间，正是书中所说“部分牛录迁移了位置”的时期。城堡近似五边形，实测周长3077米，有南北二门，无角台马面，城内有南北向干道。牛录城与九城不同：它们不求规则的方形，随水渠与耕地成形，更像围起来的村庄——这也符合它们“因地自行搭盖窝棚”的出身。",
+      "story_en": "Republican sources date Duiqi to the Jiaqing reign: \"two li and more around, walls 4.8 m high, three gates\" — from the period when, as the book notes, some niru moved their sites. A near-pentagon of 3,077 m, with north and south gates and no towers or bastions, it had a north-south main street. The niru forts differ from the nine cities: they do not seek the perfect square but follow canals and fields — walled villages, true to their origin as \"shelters put up where the land allowed\".",
+      "remains_zh": "城墙已基本无存；锁眼影像可见五边形城圈，南墙长873米为最长边。",
+      "remains_en": "The walls are essentially gone; imagery shows the pentagonal circuit, its 873 m south wall the longest side.",
+      "sources": [
+        "《河南设治局所辖境内兵要地志调查书》",
+        "《西陲屏藩》第四章第二节"
+      ],
+      "image_hint": "Pentagon-shaped earthen walled village among irrigated fields, canal running alongside, Xibe farmers, geese, morning light"
+    },
+    {
+      "id": "sunjaqi-niru",
+      "order_zh": "五牛录",
+      "order_en": "5th Niru",
+      "name_zh": "孙扎齐牛录城堡",
+      "name_en": "Sunjaqi Niru",
+      "location_zh": "今察布查尔锡伯自治县孙扎齐牛录乡孙扎齐牛录村，南临南干渠",
+      "location_en": "Sunjaqi Niru village, Sunjaqi Niru township, Qapqal County",
+      "story_zh": "八堡中宗教建筑保存最完整的一座。城北中央并立三座清代建筑：靖远寺、关帝庙与娘娘庙。靖远寺俗称“喇嘛苏木”，原占地3.53万平方米，三世佛大殿高约十米，双层双檐，顶铺彩色玻璃瓦，飞檐斗拱，雕梁画栋——在帝国最西端的军屯村庄里，立着一座汉藏合璧的佛寺。关帝庙建于光绪十八年（1892），娘娘庙与之相邻并排。三种信仰在同一条街上：帝国的军神、民间的女神、藏传佛教的佛——这就是锡伯营的精神世界。",
+      "story_en": "The fort with the richest surviving religious architecture. Three Qing buildings stand together at the north of town: the Jingyuan lamasery, a Guandi temple and a Goddess temple. Jingyuan, locally \"Lama Sumu\", once covered 35,300 m²; its Hall of the Three Buddhas rises about ten metres, double-eaved, roofed in coloured glazed tiles — a Sino-Tibetan Buddhist temple in a military colony village at the empire's westernmost edge. The Guandi temple dates to 1892, the Goddess temple beside it. Three faiths on one street: the empire's war god, the folk goddess, the Buddha of the lamas — the spiritual world of the Xibe battalion.",
+      "remains_zh": "城堡长方形，周长3156米，北城墙已修缮；靖远寺、关帝庙、娘娘庙均在。",
+      "remains_en": "A rectangular fort of 3,156 m, its north wall repaired; all three temples survive.",
+      "sources": [
+        "《察布查尔锡伯自治县志》",
+        "《西陲屏藩》第四章第二节"
+      ],
+      "image_hint": "Qing-era Buddhist lamasery with glazed tile roofs beside a Guandi temple in a walled village, prayer flags, Xibe villagers, poplar trees"
+    },
+    {
+      "id": "ningguqi-niru",
+      "order_zh": "六牛录",
+      "order_en": "6th Niru",
+      "name_zh": "宁古齐牛录城堡",
+      "name_en": "Ningguqi Niru",
+      "location_zh": "今察布查尔锡伯自治县宁古齐牛录村，南临南干渠",
+      "location_en": "Ningguqi Niru village, Qapqal County",
+      "story_zh": "民国文献称其“嘉庆年筑，周三公里……尚属完好，门三”。城堡为不规则四边形，实测周长约3555米；城门布局很特别——北墙无门，东西各一门，南墙两门。城内人口集中在南侧，北侧留有大片空地，靠近南干渠。八堡的形制从来不为礼制服务，只为生活服务：水从南边来，人就往南边聚，门就往南开。",
+      "story_en": "Republican records say \"built in the Jiaqing reign, three li around, largely intact, three gates\". An irregular quadrilateral of about 3,555 m, its gate plan is unusual: none in the north wall, one each east and west, two in the south. Villagers cluster in the south near the South Canal, leaving the north of the fort open. The eight forts never served ritual geometry, only life: water comes from the south, so people gather south and the gates open south.",
+      "remains_zh": "城墙已基本无存；锁眼影像复原其不规则四边形轮廓。",
+      "remains_en": "Walls essentially gone; the irregular quadrilateral is recoverable from satellite imagery.",
+      "sources": [
+        "《河南县志·属地》",
+        "《西陲屏藩》第四章第二节"
+      ],
+      "image_hint": "Irregular quadrilateral earthen fort, gates on south side, canal in foreground, village houses clustering south, empty pasture inside north wall"
+    },
+    {
+      "id": "nadaqi-niru",
+      "order_zh": "七牛录",
+      "order_en": "7th Niru",
+      "name_zh": "纳达齐牛录城堡",
+      "name_en": "Nadaqi Niru",
+      "location_zh": "今察布查尔锡伯自治县纳达齐牛录乡纳达齐牛录村",
+      "location_en": "Nadaqi Niru village, Nadaqi Niru township, Qapqal County",
+      "story_zh": "城堡北侧保存着一组特殊的祠庙：关帝庙（1907年始建，壁画都是中原传统经典故事）、娘娘庙，以及一座图公祠——为纪念图伯特而建。嘉庆元年（1796），锡伯营总管图伯特倡导并指挥开挖察布查尔大渠，引伊犁河水灌溉万亩，锡伯人从此“屯耕而食”有了命脉。关帝是帝国的神，娘娘是民间的神，图公是锡伯人自己的英雄——一个牛录把三种纪念并排安放在城北，汉文化与本民族记忆就这样长在一起。",
+      "story_en": "At the fort's north stands a remarkable group of shrines: a Guandi temple (begun 1907, its murals all classic tales from the Central Plains), a Goddess temple, and the Shrine of Duke Tu — built for Tubet. In 1796 Tubet, commander of the Xibe battalion, proposed and directed the digging of the Qapqal Grand Canal, channelling Ili water to ten thousand mu of fields — the lifeline that made \"tilling to feed themselves\" real. Guandi is the empire's god, the Goddess the people's, Duke Tu the Xibe's own hero: one niru set the three commemorations side by side, Central Plains culture and national memory growing into one.",
+      "remains_zh": "城墙基本无存；实测周长2568米，四角有角台。三座祠庙建筑均在，图公祠雕梁画栋。",
+      "remains_en": "The walls are gone; the circuit measures 2,568 m with corner platforms. All three shrines survive, the Tu memorial richly carved and painted.",
+      "sources": [
+        "《察布查尔锡伯自治县志》",
+        "《西陲屏藩》第六章"
+      ],
+      "image_hint": "Memorial shrine with carved painted beams in a Xibe village, elderly villagers telling children about a hero, canal and wheat fields beyond"
+    },
+    {
+      "id": "jakuqi-niru",
+      "order_zh": "八牛录",
+      "order_en": "8th Niru",
+      "name_zh": "扎库齐牛录城堡",
+      "name_en": "Jakuqi Niru",
+      "location_zh": "今察布查尔锡伯自治县扎库齐牛录乡扎库齐牛录村，北临南干渠",
+      "location_en": "Jakuqi Niru village, Jakuqi Niru township, Qapqal County",
+      "story_zh": "初建时“村周围修建有高大夯土城墙，东西南北各辟砖砌大门”，面积约一平方公里，是八堡中格局最规整的一座：长方形城圈实测3041米，城内十字街，南门外还有一座梯形城关遗址，面积约12.8万平方米——城外之城，或许是集市与车马店所在。城内北部原有关帝庙与娘娘庙；娘娘庙建于道光二十六年（1846），至今仍在。夯土墙残高3.5米，夯层中夹着白色三合土颗粒，是先民一杵一杵捣出来的家。",
+      "story_en": "When first built, \"high rammed walls ringed the village, with brick gates on all four sides\" — about a square kilometre, the most regular of the eight forts. The rectangle measures 3,041 m, with cross streets and, outside the south gate, a trapezoidal outer enclosure of 128,000 m² — a town beyond the town, perhaps for markets and cart-inns. A Guandi and a Goddess temple stood at the north; the Goddess temple, built in 1846, still stands. The surviving wall, 3.5 m high, holds white lime-earth grains in its rammed layers — a home pounded out strike by strike.",
+      "remains_zh": "北墙、南墙保存较好；北墙截面梯形，残高3.5米，顶宽2.5米，底宽5.5米。娘娘庙（1846）尚存。",
+      "remains_en": "North and south walls survive well; the north wall's trapezoid section stands 3.5 m high, 2.5 m on top, 5.5 m at the base. The 1846 Goddess temple remains.",
+      "sources": [
+        "《河南县志·属地》",
+        "《西陲屏藩》第四章第二节"
+      ],
+      "image_hint": "Regular rectangular walled Xibe village with brick gates, outer market enclosure outside south gate, camel carts, cross streets, 19th century"
+    }
+  ],
+  "karun_intro": {
+    "title_zh": "卡伦：国境线上的家",
+    "title_en": "Karun: Homes on the Frontier Line",
+    "text_zh": "卡伦是清代边疆最基层的军事单元：一座夯土小城，配上固定的兵员，在特定的时间和地点驻守巡查。两卡伦之间递筹巡查的路叫“开齐”，小卡伦分置瞭望之处叫“布克申”，统名曰卡伦。乾隆四十二年（1777），伊犁将军伊勒图令各领队大臣分管卡伦，全伊犁的卡伦分属惠宁城、锡伯营、索伦营、察哈尔营、厄鲁特营与伊犁营务处六处辖区，共84座。1881年《中俄伊犁条约》重勘边界后，金顺在新边界上“自纳林哈勒哈至沁达兰，计一千三百余里，新设卡伦十八处，一律拨兵守护”——今天尚存的卡伦遗址，大多属于这一次重建。它们沿着边界线排开，索伦营守北段，锡伯营守中段，厄鲁特营守南山。每一座二三十米见方的土围子里，都住着几户人家：士兵带着家眷轮戍，白天瞭望，夜里炕上还有火盆。",
+    "text_en": "The karun was the most basic military unit of the Qing frontier: a small rammed-earth fort with a fixed complement of soldiers, stationed to watch and patrol at a set place and season. The patrol path between two karun was called a kaiqi; lookout points of lesser posts, bukeshun. In 1777 the Ili General Iletu assigned the karun to six jurisdictions — Huining city, and the Xibe, Solon, Chahar and Oirat battalions plus the Ili command — 84 in all. After the 1881 Treaty of Ili redrew the border, General Jinshun set eighteen new karun along \"over 1,300 li from Narin Halga to Qindalan, each garrisoned with troops\". Most surviving karun ruins date from this rebuilding. They line the frontier: Solon battalion to the north, Xibe in the middle, Oirat in the southern mountains. Inside each twenty-to-thirty-metre earthwork lived a few families: soldiers rotated on duty with their households, watching by day, sleeping on heated kang by night.",
+    "sources": [
+      "《清史稿·兵志》",
+      "《伊犁府乡土志》",
+      "《西陲屏藩》第三、五章"
+    ]
+  },
+  "karun": [
+    {
+      "id": "harsuhur-karun",
+      "name_zh": "哈尔索胡尔卡伦",
+      "name_en": "Harsuhur Karun",
+      "alias_zh": "哈尔素胡尔卡",
+      "garrison_zh": "索伦营",
+      "garrison_en": "Solon Battalion",
+      "period": "guangxu",
+      "location_zh": "霍城县莫乎尔牧场格干牧业村，别珍套山南麓，西500米为霍尔果斯河",
+      "location_en": "Gegan pasture village, Mohor ranch, Huocheng — south foot of the Biezhentau range, 500 m from the Horgos river",
+      "altitude_m": 1460,
+      "dims_zh": "东西墙28米，南北墙27.4米，墙高约2.7米",
+      "dims_en": "28 × 27.4 m, walls about 2.7 m high",
+      "story_zh": "十八处新设卡伦中最北端的一座，扼守霍尔果斯河谷的山口要冲，海拔1460米，是现存卡伦中地势最高之一。索伦营的士兵守在这里：他们来自黑龙江流域的鄂温克、达斡尔部落，1764年与锡伯营同年西迁，落脚霍尔果斯河东西两岸。《新疆图志》记边界卡伦“驻稽查委员一、镇标哨弁一”，而对岸“西岸属俄，有俄卡”——两座卡伦隔河相望。卡伦现已无存，原址上盖起了现代建筑与果园；只有1965年的锁眼影像里，还能看到那个近似方形的小围城和它清晰的四座角台。",
+      "story_en": "The northernmost of the eighteen new karun, holding the mountain throat of the Horgos valley at 1,460 m — among the highest of the surviving posts. Solon soldiers kept it: Evenki and Daur families from the Heilongjiang country who had marched west in 1764, the same year as the Xibe, and settled along the Horgos river. The Xinjiang Gazetteer notes each border karun held \"one inspector and one squad leader\" — and that \"the west bank belongs to Russia, with a Russian post\": two karun facing each other across the river. Nothing survives; modern buildings and orchards cover the site. Only on 1965 satellite imagery does the small squarish fort with its four corner platforms reappear.",
+      "remains_zh": "现已无存，原址有现代建筑和果园；锁眼影像可见方形轮廓与角台。",
+      "remains_en": "Gone — modern buildings and orchards on site; the square outline with corner platforms is visible on 1965 imagery.",
+      "sources": [
+        "《伊犁府乡土志》",
+        "《新疆图志·舆图》"
+      ],
+      "image_hint": "High mountain-foot frontier picket above a border river, two tiny forts facing each other across the water, snow peaks, soldiers with a telescope"
+    },
+    {
+      "id": "qigergan-karun",
+      "name_zh": "契格尔干卡伦",
+      "name_en": "Qigergan Karun",
+      "alias_zh": null,
+      "garrison_zh": null,
+      "garrison_en": null,
+      "period": "qianlong",
+      "location_zh": "霍城县莫乎尔牧场格干牧业村，别珍套山南麓，西4.2公里为霍尔果斯河",
+      "location_en": "Gegan pasture village, Mohor ranch — 4.2 km east of the Horgos river",
+      "altitude_m": 970,
+      "dims_zh": "南北25米×东西23米，墙高3米、厚1.5米，开南门",
+      "dims_en": "25 × 23 m, walls 3 m high and 1.5 m thick, south gate",
+      "story_zh": "一座不见于《伊犁府乡土志》与《新疆图志》舆图的卡伦——书中推测它应建于乾隆年间，是第一期卡伦网络的孑遗。二普调查时它还立着夯土墙：南北25米、东西23米，墙高3米，开南门，门宽3米；自北墙向城内伸出两段南北向墙垣，考古队推测那是房屋的墙基——士兵的住房痕迹。三普复查时，它已经不存。契格尔干的命运是伊犁多数早期卡伦的命运：乾隆朝的卡伦体系在战乱与改界中废弃，连名字都没能留进晚清的舆图。",
+      "story_en": "A karun absent from both the Ili Gazetteer and the Xinjiang Gazetteer maps — the book argues it was built in the Qianlong reign, a survivor of the first-period picket network. At the second national survey its rammed walls still stood: 25 by 23 m, 3 m high, a three-metre south gate; two stub walls ran inward from the north wall — the archaeologists read them as the foundations of soldiers' quarters. By the third survey it was gone. Such was the fate of most early karun in Ili: the Qianlong network was abandoned through war and boundary change, and its names never made the late-Qing maps.",
+      "remains_zh": "现已无存；二普实测周长96米，四角有角台，尺寸不统一。",
+      "remains_en": "Nothing survives; at the second survey it measured 96 m around with corner platforms of irregular size.",
+      "sources": [
+        "《西陲屏藩》第四章第三节"
+      ],
+      "image_hint": "Lonely small square earthwork on open steppe below mountains, crumbling rammed walls, wild grasses, no modern structures, archaeological mood"
+    },
+    {
+      "id": "hongshanzui-furgan-karun",
+      "name_zh": "富尔干卡伦（红山嘴）",
+      "name_en": "Furgan (Hongshanzui) Karun",
+      "alias_zh": "红山嘴卡",
+      "garrison_zh": "索伦营",
+      "garrison_en": "Solon Battalion",
+      "period": "guangxu",
+      "location_zh": "霍城县莫乎尔牧场开干村，别珍套山南麓，西600余米为霍尔果斯河",
+      "location_en": "Kaigan village, Mohor ranch — 600 m from the Horgos river",
+      "altitude_m": 967,
+      "dims_zh": "实测东西45米、南北40米，周长170米",
+      "dims_en": "Measured 45 × 40 m, 170 m around",
+      "story_zh": "乡土志里程链上的一环：“红山咀卡，距尼堪卡三十里”，向北七十里即哈尔索胡尔卡——卡伦之间的距离用里数写得清清楚楚，因为巡查兵丁要一站一站走过去。守这里的是索伦营。与多数无存的光绪卡伦不同，红山嘴的城墙遗址尚存，立在一座果园之中，墙体内外杂草丛生；实测东西45米、南北40米，是现存卡伦中较大的一座。果园的主人换了一茬又一茬，土墙还在。",
+      "story_en": "One link in the gazetteer's mileage chain: \"Hongshanzui post, thirty li from Nikan post\", and seventy li north to Harsuhur — distances spelled out because patrolling soldiers walked them post by post. The Solon battalion kept it. Unlike most Guangxu-period karun, its walls survive, standing inside an orchard, weeds growing against the rammed earth; at 45 by 40 m it is one of the larger surviving pickets. The orchard's owners have changed again and again; the earthen walls are still there.",
+      "remains_zh": "城墙遗址尚存，处于果园中；二普记边长24米、现高3米，三普记南北35米、东西33米。",
+      "remains_en": "Walls survive in an orchard; earlier surveys recorded 24 m sides at 3 m high, then 35 × 33 m.",
+      "sources": [
+        "《伊犁府乡土志》",
+        "《中国文物地图集·新疆分册》"
+      ],
+      "image_hint": "Ruined rammed earth square fort inside an apple orchard, blossoms, weeds against ancient walls, mountains behind, springtime Ili"
+    },
+    {
+      "id": "nikan-kashayan-karun",
+      "name_zh": "沙彦卡伦（尼堪卡）",
+      "name_en": "Shayan (Nikan) Karun",
+      "alias_zh": "尼堪卡伦",
+      "garrison_zh": "索伦营",
+      "garrison_en": "Solon Battalion",
+      "period": "guangxu",
+      "location_zh": "霍城县莫乎尔牧场开干村，东临霍尔果斯河与边防公路",
+      "location_en": "Kaigan village, Mohor ranch — beside the Horgos river and the border road",
+      "altitude_m": 861,
+      "dims_zh": "东西35.3米×南北35.3米，墙高3～3.5米",
+      "dims_en": "35.3 × 35.3 m, walls 3–3.5 m high",
+      "story_zh": "新界卡伦里程链的起点：“绥定县西二十里尼堪卡伦，在河之东岸……西岸属俄，有俄卡。”从尼堪卡伦出发，北行三十里红山嘴、七十里哈尔素胡尔；南行三十里察罕鄂博、五十里登元——整条边界巡查线以它为锚点。它也是保存最好的卡伦之一：方城35米见方，墙体最高3.6米，三普时北墙内侧还留有五个半穹形的洞，可蹲一人，是后期扰动留下的痕迹，却让人直观想起守卡兵丁倚墙瞭望的姿态。城内杂草丛中，房屋遗迹犹可辨认。",
+      "story_en": "The anchor of the new boundary's mileage chain: \"Twenty li west of Suiding county town stands Nikan karun, on the river's east bank … the west bank belongs to Russia, with a Russian post.\" From Nikan, thirty li north to Hongshanzui and seventy to Harsuhur; thirty li south to Chaghan Ebo, fifty to Dengyuan — the whole patrol line was measured out from here. It is also among the best preserved: a 35-m square with walls up to 3.6 m; at the third survey five half-domed hollows, each big enough for one crouching man, pitted the inner north wall — later disturbance, yet vivid shorthand for a sentry leaning on his wall. House traces are still legible in the weeds.",
+      "remains_zh": "保存较好；二普记门朝南、宽3.2米；三普时东北、东南角台已坍塌，存西北、西南角台。",
+      "remains_en": "Well preserved; south gate 3.2 m wide; two corner platforms collapsed by the third survey, two survive.",
+      "sources": [
+        "《新疆图志》",
+        "《伊犁府乡土志》",
+        "《中国文物地图集·新疆分册》"
+      ],
+      "image_hint": "Best-preserved square mud-brick frontier fort beside a border river, watch holes in the wall, one-room guardhouse interior with kang bed, cold morning"
+    },
+    {
+      "id": "chaghan-ebo-karun",
+      "name_zh": "察罕额博卡伦",
+      "name_en": "Chaghan Ebo Karun",
+      "alias_zh": "察罕鄂博卡",
+      "garrison_zh": "索伦营",
+      "garrison_en": "Solon Battalion",
+      "period": "guangxu",
+      "location_zh": "霍城县莫乎尔牧场牧业村，西濒霍尔果斯河",
+      "location_en": "Muye village, Mohor ranch — on the east bank of the Horgos river",
+      "altitude_m": 610,
+      "dims_zh": "实测南北42米×东西47米，周长178米",
+      "dims_en": "Measured 42 × 47 m, 178 m around",
+      "story_zh": "“察罕额博”意为白色的敖包——蒙古语地名提醒我们，这片草场在清廷筑城之前属于谁。卡伦东北340米处立着一座瞭望台：台基长5米，黄土夯筑，台上原有土屋，通高约4.3米。这就是“布克申”——小卡伦分置瞭望之处：围墙里的卡伦是家，墙外高处的土台是眼睛。守卡的索伦兵白天轮流登台，看河、看路、看烟尘。卡伦墙垣至今可见，瞭望台残迹也在，是十八卡伦中唯一一处卡伦与瞭望台并存的组合。",
+      "story_en": "Chaghan Ebo means \"white ovoo\" — a Mongolian place-name recalling whose pasture this was before the Qing built towns. Northeast of the fort, 340 m away, stands a lookout platform: a five-metre rammed-earth base once carrying a mud hut, 4.3 m high in all. This is a bukeshun — the lookout point of a lesser post: the walled karun was the home, the high platform outside its eyes. Solon soldiers took turns on the platform by day, watching the river, the road, the dust. Both fort walls and lookout survive — the only karun-lookout pair among the eighteen.",
+      "remains_zh": "保存稍好，墙垣可见；瞭望台土屋现存无几。",
+      "remains_en": "Walls still visible; the lookout's mud hut is almost gone.",
+      "sources": [
+        "《新疆图志·舆图》",
+        "《清史稿·兵志》（开齐、布克申）"
+      ],
+      "image_hint": "Small fort with a separate tall rammed-earth lookout platform on a rise, soldier scanning the river valley, white stone cairn nearby"
+    },
+    {
+      "id": "dengyuan-karun",
+      "name_zh": "登元卡伦",
+      "name_en": "Dengyuan Karun",
+      "alias_zh": "登元卡",
+      "garrison_zh": "索伦营",
+      "garrison_en": "Solon Battalion",
+      "period": "guangxu",
+      "location_zh": "霍城县莫乎尔牧场牧业村，西濒霍尔果斯河，靠国防公路",
+      "location_en": "Muye village, Mohor ranch — by the Horgos river and the frontier highway",
+      "altitude_m": 574,
+      "dims_zh": "实测南北28米×东西32米，墙体厚3.3米",
+      "dims_en": "Measured 28 × 32 m, walls 3.3 m thick",
+      "story_zh": "里程链上“登元卡，距察罕鄂博卡五十里”。它的特别之处在墙：实测厚达3.3米，是现存卡伦中最厚的墙，几乎是一座实心堡垒；城的方向北偏西35°，也是十八座卡伦中偏转最大的之一——筑城者显然在迁就河与路的走向。如今卡伦保存较差，围墙之内立着一座15米高的现代铁哨楼：旧卡伦与新哨所，在同一地点接续了同一种工作。",
+      "story_en": "On the mileage chain, \"Dengyuan post, fifty li from Chaghan Ebo\". Its distinction is the wall: measured at 3.3 m thick — the thickest of any surviving karun, nearly a solid blockhouse. And its axis swings 35° west of north, among the largest deviations of the eighteen — the builders clearly bent the plan to the river and the road. The fort is poorly preserved, and inside it now rises a 15-m iron watchtower of the modern border force: old karun and new watch-post continuing the same work on the same spot.",
+      "remains_zh": "保存较差；内有现代铁哨楼；二普记四角有角楼。",
+      "remains_en": "Poorly preserved; a modern iron watchtower stands inside; corner towers recorded at the second survey.",
+      "sources": [
+        "《伊犁府乡土志》",
+        "《中国文物地图集·新疆分册》"
+      ],
+      "image_hint": "Thick-walled small fort beside a modern iron border watchtower, old and new juxtaposed, Horgos river plain, wind turbines far away"
+    },
+    {
+      "id": "sandaohe-heyuan-karun",
+      "name_zh": "河源卡伦（三道河子）",
+      "name_en": "Heyuan Karun",
+      "alias_zh": "三道河子卡伦",
+      "garrison_zh": "索伦营",
+      "garrison_en": "Solon Battalion",
+      "period": "guangxu",
+      "location_zh": "霍城县三道河乡沙门子村，西临霍尔果斯河，南约2公里为伊犁河",
+      "location_en": "Shamenzi village, Sandaohe — between the Horgos river and the Ili, 2 km north of the latter",
+      "altitude_m": 549,
+      "dims_zh": "实测东西28米×南北25米，周长106米",
+      "dims_en": "Measured 28 × 25 m, 106 m around",
+      "story_zh": "守的是两条大河的交汇地带：霍尔果斯河在此注入伊犁河，渡口、渔船与走私者都要从这里过。卡伦因此得名“河源”，也叫三道河子卡伦。这里是索伦营防区与锡伯营防区的分界点——从河源卡伦向南五十里到头湖卡，防区就换成了锡伯营。小小的土围子只有25米见方，却卡在帝国版图上两条河、两个营、两个国度的接缝处。",
+      "story_en": "It watched the meeting of two great rivers: here the Horgos joins the Ili, and ferries, fishers and smugglers all passed this way — hence its name, \"River-Source\", also called the Sandaohe post. It also marked the seam between battalion jurisdictions: fifty li south to Touhu post, and the watch passed from the Solon to the Xibe battalion. A mud square barely 25 m across, pinned at the junction of two rivers, two battalions and two empires.",
+      "remains_zh": "四面墙体损毁严重，仅东北墙角保存相对较好，未见角台遗迹。",
+      "remains_en": "Walls heavily damaged; only the north-east corner survives in fair shape; no corner platforms found.",
+      "sources": [
+        "《伊犁府乡土志》",
+        "《西陲屏藩》第四章第三节"
+      ],
+      "image_hint": "Tiny square fort at the confluence of two great rivers, ferry crossing, reeds, mist over water, lone sentinel"
+    },
+    {
+      "id": "touhu-karun",
+      "name_zh": "头湖卡伦",
+      "name_en": "Touhu Karun",
+      "alias_zh": "头湖卡",
+      "garrison_zh": "锡伯营",
+      "garrison_en": "Xibe Battalion",
+      "period": "guangxu",
+      "location_zh": "察布查尔县斐新哈莎镇梧桐毛村，北距伊犁河南岸约2公里，西约1公里为中哈边界",
+      "location_en": "Wutongmao village, Feixin Hasha, Qapqal — 2 km south of the Ili, 1 km from the border",
+      "altitude_m": 569,
+      "dims_zh": "实测东西23米×南北17米，周长80米",
+      "dims_en": "Measured 23 × 17 m, 80 m around",
+      "story_zh": "锡伯营防区的北端起点：“头湖卡，距三棵树卡六十里。”从这座只有八十米周长的小城开始，往南一串卡伦都由锡伯营拨兵守护——守卡的士兵，就是从八个牛录城堡里轮班出来的锡伯子弟。他们白天登墙瞭望伊犁河渡口与边界动静，晚上回到土打墙的房子里，睡炕、烤火盆；换防的日子，骑马一天就能回到城堡里的家。头湖卡伦的东墙保存相对较好，其余三墙已坍塌，还曾被当作羊圈使用。",
+      "story_en": "The northern head of the Xibe battalion's watch: \"Touhu post, sixty li from Sankeshu (Three Trees) post.\" From this tiny fort — barely 80 m around — the chain running south was manned by Xibe soldiers, rotated out of the eight niru forts. By day they watched the Ili crossings and the border from the wall; by night they returned to houses with stamped-earth walls, sleeping on the kang by the brazier; on relief day, a day's ride brought them home to their own fort. Touhu's east wall survives in fair shape; the other three have fallen, and the ruin once served as a sheepfold.",
+      "remains_zh": "东墙保存相对较好，余三墙坍塌；损毁主因为风雨侵蚀与人为利用（曾作羊圈）。",
+      "remains_en": "The east wall survives best; the rest have fallen — weathering and reuse as a sheepfold did the damage.",
+      "sources": [
+        "《伊犁府乡土志》",
+        "谢善智《锡伯老兵话卡伦》"
+      ],
+      "image_hint": "Xibe soldier's small border fort near a great river, sheep inside the ruined walls, a rider approaching on the steppe road at dusk"
+    },
+    {
+      "id": "wutongzi-karun",
+      "name_zh": "梧桐孜卡伦（三棵树）",
+      "name_en": "Wutongzi (Three Trees) Karun",
+      "alias_zh": "三棵树卡",
+      "garrison_zh": "锡伯营",
+      "garrison_en": "Xibe Battalion",
+      "period": "guangxu",
+      "location_zh": "察布查尔县斐新哈莎镇霍东孜村，伊犁河谷南岸阶地平原",
+      "location_en": "Huodongzi village, Feixin Hasha, Qapqal — south-bank terrace of the Ili",
+      "altitude_m": 797,
+      "dims_zh": "边长约25米，周长100米；墙体最高3.6米",
+      "dims_en": "About 25 m square, 100 m around; walls up to 3.6 m",
+      "story_zh": "又名“三棵树卡”——一个用树做地名的卡伦，锡伯营防区的中段：“三棵树卡，距干查罕莫敦卡六十里。”它是现存卡伦中信息最丰富的一座：墙上有箭楼、有瞭望孔，还有女墙——十八座卡伦中仅两座有女墙，说明它不只是瞭望所，必要时可以单独作战。卡伦之内，住房、粮库、马厩、储草棚的遗迹都能辨认：这是一个自给自足的小世界，士兵、战马、口粮、冬草，都在25米见方的围墙里各就各位。",
+      "story_en": "Also called Sankeshu — \"Three Trees\" — a post named after trees, mid-chain in the Xibe sector: \"Sixty li from Ganchahan Modun post.\" It is the most informative of the surviving karun: an arrow tower on the wall, look-out holes, and a parapet — only two of the eighteen have parapets, meaning this was no mere lookout but could fight alone if needed. Inside, the traces of quarters, grain store, stable and fodder shed can all be told apart: a self-sufficient little world where soldiers, horses, rations and winter hay each had their place within 25 square metres of wall.",
+      "remains_zh": "南、北、东三面墙体保存相对较好，西墙北段坍塌严重；西北角台保存最好。",
+      "remains_en": "Three walls survive fairly well; the north end of the west wall has collapsed; the north-west corner platform is the best preserved.",
+      "sources": [
+        "《伊犁府乡土志》",
+        "《西陲屏藩》第四、五章"
+      ],
+      "image_hint": "Interior of a tiny self-sufficient frontier fort: kang room, grain store, stable and hay shed around a yard, arrow slits and parapet, Xibe soldiers' daily life"
+    },
+    {
+      "id": "nadanmu-karun",
+      "name_zh": "纳旦木卡伦",
+      "name_en": "Nadanmu Karun",
+      "alias_zh": "干查罕莫敦卡",
+      "garrison_zh": "锡伯营",
+      "garrison_en": "Xibe Battalion",
+      "period": "guangxu",
+      "location_zh": "察布查尔县斐新哈莎镇霍东孜村，西约4公里为中哈边界",
+      "location_en": "Huodongzi village, Feixin Hasha, Qapqal — 4 km from the border",
+      "altitude_m": 744,
+      "dims_zh": "实测东西36.5米×南北30米，周长133米",
+      "dims_en": "Measured 36.5 × 30 m, 133 m around",
+      "story_zh": "乡土志里的“干查罕莫敦卡”，锡伯营四座卡伦之一：“距塔奇勒哈卡四十里”。它是现存卡伦中保存最好、考古细节最丰富的一座：夯层只有7～8厘米，夯层间夹着石子与草木，墙体先筑中间、后补两侧的工序今天还看得清；四角角台边长达4.5～5米，合清代一丈五尺——卡伦虽小，营造却一丝不苟。卡伦北50米处还存四座圆形马槽台，直径1.5米：战马也有专座。调查的考古队曾走进这座卡伦实地测绘，它是本书作者亲手丈量过的遗址。",
+      "story_en": "The gazetteer's \"Ganchahan Modun post\", one of the Xibe battalion's four karun: \"forty li from Taqilha post.\" It is the best preserved and most closely studied of all: rammed layers only 7–8 cm thick with pebbles and grass between, the construction sequence — middle first, sides later — still readable; corner platforms 4.5–5 m square, exactly a Qing zhang-and-a-half. Fifty metres north stand four circular horse-trough platforms, 1.5 m across — even the horses had their appointed places. The book's author surveyed this karun in person; it is a ruin that has been measured by hand.",
+      "remains_zh": "整体保存较好，墙体残高约3米，仅一南门；内部遍布杂草，不见遗迹。",
+      "remains_en": "Well preserved overall, walls about 3 m high, a single south gate; the interior is overgrown with no visible traces.",
+      "sources": [
+        "《伊犁府乡土志》",
+        "《西陲屏藩》第四、五章"
+      ],
+      "image_hint": "Archaeologists with measuring tapes inside a well-preserved small rammed-earth fort, corner platforms, horse troughs outside, steppe and border hills"
+    },
+    {
+      "id": "abusanter-karun",
+      "name_zh": "阿布散特尔卡伦",
+      "name_en": "Abusanter Karun",
+      "alias_zh": null,
+      "garrison_zh": null,
+      "garrison_en": null,
+      "period": "guangxu",
+      "location_zh": "察布查尔县斐新哈莎镇多兰图村，霍诺海沟西约5公里的倾斜平原",
+      "location_en": "Dolantu village, Feixin Hasha, Qapqal — sloping plain 5 km west of the Huonohai ravine",
+      "altitude_m": 1105,
+      "dims_zh": "南北34.4米×东西31.6米，墙最高约4米",
+      "dims_en": "34.4 × 31.6 m, walls up to 4 m high",
+      "story_zh": "从平原卡伦进入山地卡伦的第一站，海拔升到1105米。这座卡伦的门很讲究：南门宽2.9～3.1米，门两侧各有4米多长的廊——在土围子里修门廊，是为了让守卡的人在风雪天也能在门下交接、避雪。墙体最高处约4米，是现存卡伦中最高的墙之一。从阿布散特尔开始，卡伦的职能悄悄变化：山前地带的卡伦除了看边界，还要看住山口、矿山与牧场，稽查游牧与盗马贼。",
+      "story_en": "The first step from the plain karun into the mountain ones, the altitude rising to 1,105 m. Its gate is unusually fine: a south doorway about 3 m wide flanked by four-metre galleries — a porch in an earthwork, so the watch could change hands under cover in snow and wind. The walls reach 4 m, among the tallest surviving. From Abusanter upward, the karun's work quietly changes: besides watching the border, the mountain posts watched passes, mines and pastures, checking nomad movements and horse thieves.",
+      "remains_zh": "四角有角楼，边长2.2～2.8米；西侧有一条自然冲沟。",
+      "remains_en": "Corner towers 2.2–2.8 m square survive; a natural gully runs along the west side.",
+      "sources": [
+        "《中国文物地图集·新疆分册》",
+        "《西陲屏藩》第五章"
+      ],
+      "image_hint": "Mountain-foot fort with a covered gate gallery, snow flurries, soldiers exchanging watch under the porch, rugged hills rising behind"
+    },
+    {
+      "id": "dolantu-karun",
+      "name_zh": "多兰图卡伦",
+      "name_en": "Dolantu Karun",
+      "alias_zh": null,
+      "garrison_zh": null,
+      "garrison_en": null,
+      "period": "guangxu",
+      "location_zh": "察布查尔县斐新哈莎镇多兰图村",
+      "location_en": "Dolantu village, Feixin Hasha, Qapqal County",
+      "altitude_m": null,
+      "dims_zh": "实测东西26米×南北27米，周长106米",
+      "dims_en": "Measured 26 × 27 m, 106 m around",
+      "story_zh": "与阿布散特尔同在一村，是山地卡伦链上的相邻一环。三普记录里它的细节不少：门朝南，宽约3.5米；四角设角楼，边长2.2～2.8米；墙体厚1.3米、高约2.7米。多兰图一带的卡伦群，与北边的平原卡伦同属光绪新界体系，但分守的已不是大河渡口，而是霍诺海沟两侧的牧场通道——谁家的羊群过界，哪里的草场起了纠纷，卡伦里的兵丁最先知道。",
+      "story_en": "In the same village as Abusanter, the neighbouring link of the mountain karun chain. The third survey recorded it in detail: south gate about 3.5 m wide, corner towers 2.2–2.8 m square, walls 1.3 m thick and 2.7 m high. The Dolantu karun group belonged to the same Guangxu boundary system as the plain posts to the north, but what they watched was no longer ferry crossings — it was the pasture tracks along the Huonohai ravine. Whose sheep crossed the line, which grassland fell into dispute — the men in the karun knew first.",
+      "remains_zh": "平面实测北偏东28°，为十八卡伦中偏角较大者。",
+      "remains_en": "Its axis runs 28° east of north, among the larger deviations of the eighteen.",
+      "sources": [
+        "《中国文物地图集·新疆分册》",
+        "《西陲屏藩》第四章第三节"
+      ],
+      "image_hint": "Two small forts on a pasture slope a few kilometres apart, sheep herds and herders between them, boundary dispute scene, mountain ravine"
+    },
+    {
+      "id": "tukurhun-karun",
+      "name_zh": "吐库尔浑卡伦",
+      "name_en": "Tukurhun Karun",
+      "alias_zh": null,
+      "garrison_zh": null,
+      "garrison_en": null,
+      "period": "guangxu",
+      "location_zh": "察布查尔县斐新哈莎镇多兰图村，洪纳海沟西侧山区，东距洪纳海河约1公里",
+      "location_en": "Dolantu village, Feixin Hasha — mountain country west of the Hongnahai ravine",
+      "altitude_m": 1507,
+      "dims_zh": "实测东墙35米、南墙31米，周长128米",
+      "dims_en": "East wall 35 m, south wall 31 m, 128 m around",
+      "story_zh": "海拔1507米，已是山区。吐库尔浑的价值在于城内布局至今清晰：南门进去后东西两侧为房屋，西侧整体布满房屋，东北部留为空地——兵的住房、马的栏圈、草料的堆放，各守其位。对照换防士兵何叶尔·文克津的回忆，卡伦之内“正中有平房三间，谓之嘎赉达住室……两旁有索伦官兵住房二间，东西两翼盖有马厩”，吐库尔浑的废墟正是这种布局在地上的实证。",
+      "story_en": "At 1,507 m, this is mountain country. Tukurhun's value is that its interior plan is still legible: entering the south gate, houses line east and west, the western half is covered with buildings, the northeast left open — quarters, stables, fodder, each in its place. Read it against the memoir of a rotated soldier, Heyer Wenkejin: \"In the centre stood three rooms, the wing-commander's quarters … on either side two rooms for the Solon troops, and stables on the east and west wings\" — the ruins of Tukurhun are that description standing on the ground.",
+      "remains_zh": "二普记墙体厚0.4米、高1.7米；三普时残损更甚，最高处1米多。",
+      "remains_en": "Walls recorded at 0.4 m thick and 1.7 m high, reduced to barely a metre by the third survey.",
+      "sources": [
+        "何叶尔·文克津回忆录（书引）",
+        "《西陲屏藩》第四、五章"
+      ],
+      "image_hint": "Mountain karun interior ruins clearly divided into rooms and stables, archaeological plan view made real, sparse high-altitude grass"
+    },
+    {
+      "id": "hongnahai-karun",
+      "name_zh": "洪纳海卡伦",
+      "name_en": "Hongnahai Karun",
+      "alias_zh": null,
+      "garrison_zh": null,
+      "garrison_en": null,
+      "period": "guangxu",
+      "location_zh": "察布查尔县斐新哈莎镇多兰图村，霍诺海沟内西岸台地",
+      "location_en": "Dolantu village, Feixin Hasha — terrace on the west bank inside the Huonohai ravine",
+      "altitude_m": 1420,
+      "dims_zh": "实测东西35米×南北30米，周长130米；墙最高3.6米",
+      "dims_en": "Measured 35 × 30 m, 130 m around; walls up to 3.6 m",
+      "story_zh": "藏在霍诺海沟里的卡伦，海拔1420米，扼沟内通道。它的墙讲得出筑法：夯层厚约20厘米，夯层之间夹杂碎草——山区就地取材，草拌进土里，墙反而更韧。墙上还有女墙，是十八座卡伦中仅有的两座带女墙者之一（另一座是锡伯营的梧桐孜）。守在沟里的兵丁，夏天看牧场，冬天看雪路；这条沟后来以“洪纳海”之名留了下来，沟、河、卡伦，共用同一个名字。",
+      "story_en": "A karun hidden inside the Huonohai ravine at 1,420 m, holding the pass through the gully. Its walls can tell how they were built: rammed layers about 20 cm thick with chopped grass mixed between — local materials, grass into earth, the tougher for it. It also has a parapet, one of only two among the eighteen (the other being the Xibe-manned Wutongzi). The soldiers in the ravine watched the pastures in summer and the snow road in winter; the gully still bears the name Hongnahai today — ravine, river and karun sharing one name.",
+      "remains_zh": "门朝南开，宽4.2米；墙体上存女墙，保存最高处3.6米。",
+      "remains_en": "South gate 4.2 m wide; parapet survives atop walls up to 3.6 m.",
+      "sources": [
+        "《西陲屏藩》第四、五章"
+      ],
+      "image_hint": "Hidden fort inside a deep mountain ravine, grass-tempered rammed walls with parapet, snow patches, eagles, remote and quiet"
+    },
+    {
+      "id": "hasan-karun",
+      "name_zh": "哈桑卡伦",
+      "name_en": "Hasan Karun",
+      "alias_zh": null,
+      "garrison_zh": null,
+      "garrison_en": null,
+      "period": "qianlong",
+      "location_zh": "昭苏县吐格勒勤布拉克村，扼哈桑河沟口南侧",
+      "location_en": "Tugelqin Bulak village, Zhaosu — holding the south side of the Hasan river mouth",
+      "altitude_m": 1977,
+      "dims_zh": "边长约44米，周长176米",
+      "dims_en": "About 44 m square, 176 m around",
+      "story_zh": "乾隆朝第一期卡伦，也是本书作者团队首次发现、首次确认的卡伦。它扼守哈桑河沟口，海拔近2000米。最动人的是城内的“田”字形结构：内部被土墙均分成若干小区，东墙外侧还有一圈方形土围墙，应为马厩——士兵居屋、库房、马厩，在44米见方的空间里安排得井井有条。《新疆图志》的舆图标过它，但两百年间没有人找到它；直到考古队把卫星影像上的方形阴影与沟口的土垄对上了号。",
+      "story_en": "A first-period, Qianlong-era karun — and the first ever discovered and confirmed by the book's own team. It holds the mouth of the Hasan river at nearly 2,000 m. Most moving is its interior: stamped walls divide the fort into a grid like the character 田, and outside the east wall a square earthwork served presumably as the stable — quarters, stores, horses all in order within a 44-m square. The Xinjiang Gazetteer's maps marked it, but for two hundred years no one found it, until archaeologists matched a square shadow on satellite imagery with the earthworks at the ravine's mouth.",
+      "remains_zh": "“田”字形内部结构清晰；东侧马厩围墙北墙长28米、东墙长24米。",
+      "remains_en": "The grid-pattern interior is clear; the stable enclosure measures 28 m by 24 m.",
+      "sources": [
+        "《新疆图志·舆图》",
+        "《西陲屏藩》第四章第三节"
+      ],
+      "image_hint": "Discovery scene: archaeologist with GPS standing on a grid-patterned ruined fort at a mountain pass, satellite map in hand, alpine meadow, marmots"
+    },
+    {
+      "id": "gedengshan-karun",
+      "name_zh": "格登山卡伦",
+      "name_en": "Gedengshan Karun",
+      "alias_zh": null,
+      "garrison_zh": null,
+      "garrison_en": null,
+      "period": "qianlong",
+      "location_zh": "昭苏县格登庄北的格登沟，萨尔套山深处",
+      "location_en": "Gedeng gully north of Gedengzhuang, Zhaosu — deep in the Sartau mountains",
+      "altitude_m": 2041,
+      "dims_zh": "南北53米×东西58米，周长222米，墙体厚6.4米",
+      "dims_en": "53 × 58 m, 222 m around; walls 6.4 m thick",
+      "story_zh": "现存卡伦中海拔最高、规模最大的一座：2041米，萨尔套山深处。格登山这个名字在清史上如雷贯耳——1755年平定准噶尔的格登山之战就发生在这里，乾隆御制碑文立于此山；1882年善后工程中，清廷还专门“建修格登山碑亭”。卡伦墙体厚达6.4米，超过一般卡伦两倍，城内均匀分布八个区块，应为房址与马厩。此卡伦也由本书作者团队首次发现并确认：在御碑的阴影里，一座军营沉默了两百多年。",
+      "story_en": "The highest and largest surviving karun: 2,041 m, deep in the Sartau range. Gedeng Mountain rings loud in Qing history — the 1755 battle that broke the Dzungars was fought here, and the Qianlong emperor's own stele was raised on the mountain; the 1882 reconstruction works specifically included \"building the Gedengshan stele pavilion\". The fort's walls are 6.4 m thick, double the norm, its interior divided evenly into eight blocks of quarters and stables. This karun too was first discovered and confirmed by the book's team: a barracks that kept silent for two centuries in the shadow of an imperial stele.",
+      "remains_zh": "残墙最高约1米，四角凸出为角台残迹；城内8个区块清晰。",
+      "remains_en": "Walls survive to about 1 m, corner platforms projecting; eight interior blocks remain legible.",
+      "sources": [
+        "《西陲屏藩》第四章第三节",
+        "《清高宗实录》（格登山之役）"
+      ],
+      "image_hint": "High mountain barracks ruin with massive thick walls, eight room blocks, imperial stele pavilion on a distant peak, alpine grandeur, clouds below"
+    },
+    {
+      "id": "sulijier-karun",
+      "name_zh": "苏里季尔卡伦",
+      "name_en": "Sulijier Karun",
+      "alias_zh": null,
+      "garrison_zh": null,
+      "garrison_en": null,
+      "period": "qianlong",
+      "location_zh": "昭苏县夏特柯尔克孜族乡阔斯托别村，紧邻特克斯河",
+      "location_en": "Kuostobie village, Xate Kirgiz township, Zhaosu — beside the Tekes river",
+      "altitude_m": 1695,
+      "dims_zh": "南北约42米×东西约28米，周长140米",
+      "dims_en": "About 42 × 28 m, 140 m around",
+      "story_zh": "特克斯河畔的卡伦，也是作者团队首次发现并确认。特克斯河谷是通往南疆的古道——翻过天山就是阿克苏。守在这里的人，看的是全疆最繁忙的一条山间通道：商队、牧民、逃人、信使，都要从这条河谷过。卡伦保存情况较好，城内房屋院落的遗迹至今可见——在柯尔克孜牧民的冬牧场边上，一座清代兵站的格局还完整地躺在草地上。",
+      "story_en": "A karun beside the Tekes river, likewise discovered and confirmed by the author's team. The Tekes valley is the old road to southern Xinjiang — cross the Tianshan and you descend to Aksu. Whoever kept this post watched one of the busiest mountain thoroughfares in the region: caravans, herders, fugitives, couriers all passed along this valley. The fort is well preserved, its houses and courtyards still legible — beside the winter pastures of Kirgiz herders, the plan of a Qing way-station lies intact upon the grass.",
+      "remains_zh": "保存情况较好，城内可见房屋院落遗迹。",
+      "remains_en": "Well preserved; houses and courtyards visible inside.",
+      "sources": [
+        "《西陲屏藩》第四章第三节"
+      ],
+      "image_hint": "Well-preserved small fort beside a turquoise mountain river, Kirgiz yurts and herds nearby, old caravan trail, golden autumn"
+    },
+    {
+      "id": "narinhalga-karun",
+      "name_zh": "纳林哈勒噶卡伦",
+      "name_en": "Narin Halga Karun",
+      "alias_zh": "那林哈勒噶卡",
+      "garrison_zh": "厄鲁特营",
+      "garrison_en": "Oirat Battalion",
+      "period": "qianlong",
+      "location_zh": "胡松图喀尔逊蒙古族乡喀拉克米尔村，纳林果勒河东岸阶地",
+      "location_en": "Kalakemir village, Husuntu Karsun Mongol township — terrace on the east bank of the Naringol river",
+      "altitude_m": 1974,
+      "dims_zh": "残墙北74米、东56米、南67米、西53米，周长250米",
+      "dims_en": "Walls 74/56/67/53 m, 250 m around — the largest karun circuit",
+      "story_zh": "乾隆年间所建，见于《新疆识略》与《新疆图志》舆图；1881年重勘边界时，金顺那句“自纳林哈勒哈至沁达兰，计一千三百余里”，正是以它为边界卡伦链的南端起点。守这段的是厄鲁特营——准噶尔旧部归附后改编的旗营，清廷让最熟悉山地的人守山地。它是现存卡伦中城圈最大的一座，周长250米；也最特别——门开在北面，十八座卡伦中唯一不开南门的卡伦，因为它面对的威胁来自南方的山口。",
+      "story_en": "Built in the Qianlong reign and shown on the maps of the Xinjiang Zhilue and Xinjiang Gazetteer; when the boundary was re-surveyed in 1881, Jinshun's phrase \"from Narin Halga to Qindalan, over 1,300 li\" took this post as the chain's southern start. This stretch was kept by the Oirat battalion — surrendered Dzungars enrolled as bannermen, the court setting those who knew the mountains best to watch the mountains. It has the largest circuit of any surviving karun at 250 m, and the only one whose gate faces north rather than south — because the threat it watched came from the passes to the south.",
+      "remains_zh": "仅存残垣；方向北偏西35°，为十八卡伦中偏角最大者之一。",
+      "remains_en": "Only ruins remain; its axis runs 35° west of north, among the most strongly tilted of the eighteen.",
+      "sources": [
+        "《新疆识略》",
+        "《新疆图志·舆图》",
+        "《伊犁府乡土志》"
+      ],
+      "image_hint": "Largest ruined border fort on a high river terrace, north-facing gate, Mongol horsemen of the Oirat battalion patrolling, vast southern mountain wall"
+    }
+  ],
+  "prologue": {
+    "epigraph_zh": "古庙东西辟广场，雪消齐露粉红墙。风光谷雨尤奇丽，苹果花开雀舌香。",
+    "epigraph_en": "East and west of the old temples, squares are cleared; the snow melts and pink walls show together. At grain-rain the scene is strangely lovely — apple blossom opening, sparrow-tongue tea fragrant.",
+    "epigraph_source_zh": "洪亮吉《伊犁纪事诗》",
+    "epigraph_source_en": "Hong Liangji, Poems on Ili, c. 1800",
+    "intro_zh": "洪亮吉——一位被流放伊犁的诗人——在1800年前后写下了这首诗。他看到的伊犁，已不是荒漠边地，而是一片有庙、有广场、有果园的建成之地。这一切始于四十年前的一次决定：筑城、移民、设卡。本馆讲述的就是这之后的两层历史：一座河谷如何被建成帝国的西陲屏藩；以及一群从盛京迁来的锡伯人，如何把这里变成故乡。而在他们到来之前的更早居民，则以另一种方式留在这片土地上——河谷里那些沉默的墓葬，等待着我们用新的技术重新发现。",
+    "intro_en": "Hong Liangji — a poet exiled to Ili — wrote these lines around 1800. The Ili he saw was no desert frontier but a built world of temples, squares and orchards. It had all begun forty years earlier with one decision: build towns, move people, set pickets. This museum tells the two histories that followed: how a river valley was made into the empire's western shield; and how a people marched here from Shengjing, the Xibe, made it their home. And the valley's far earlier inhabitants remain in another form — silent tombs in the grassland, waiting to be found again with new eyes.",
+    "image_hint": "Ili valley in apple blossom season, pink-walled temple and square, poet-exile in Qing dress watching mountains, lyrical realism"
+  },
+  "timeline": [
+    {
+      "id": "founding",
+      "years_zh": "1761–1763",
+      "years_en": "1761–1763",
+      "name_zh": "初建",
+      "name_en": "Founding",
+      "text_zh": "乾隆二十六年（1761），阿桂奏建塔勒奇城，伊犁河谷有了第一座驻防城。次年，绥定、宁远同年落成；伊犁将军设立，初驻绥定。乾隆二十八年，惠远城开建——河谷的政治重心开始北移。三年三城，清廷用筑城的方式宣告了对伊犁的占有。",
+      "text_en": "In 1761 Agui memorialised to build Taleqi, the valley's first garrison town. The next year Suiding and Ningyuan were completed together, and the Ili Generalship was created, first seated at Suiding. In 1763 work began on Huiyuan — the political centre of gravity shifted north. Three towns in three years: the court announced its possession of Ili by building.",
+      "cities": [
+        "taleqi",
+        "suiding",
+        "ningyuan"
+      ]
+    },
+    {
+      "id": "height",
+      "years_zh": "1763–1765",
+      "years_en": "1763–1765",
+      "name_zh": "高潮",
+      "name_en": "High Tide",
+      "text_zh": "惠远、惠宁两座满城相继建成，乾隆钦定城名；哈什回城由回人自愿修筑。乾隆二十九年（1764），索伦、察哈尔、厄鲁特、锡伯四营自东北与漠北携眷移驻，次年抵达——伊犁河谷的军政格局至此齐备：将军居惠远，满营居两城，四营环守四方，回城种粮供养。",
+      "text_en": "The two Manchu towns Huiyuan and Huining were completed and personally named by the Qianlong emperor; the Muslim town of Khash was built by its own people. In 1764 four battalions — Solon, Chahar, Oirat, Xibe — moved west with families from the northeast and the steppe, arriving the next year. The valley's military-civil order was now complete: the General in Huiyuan, Manchus in the twin towns, four battalions guarding the four quarters, the Muslim town growing grain for all.",
+      "cities": [
+        "huiyuan-old",
+        "huining"
+      ]
+    },
+    {
+      "id": "consolidation",
+      "years_zh": "1766–1862",
+      "years_en": "1766–1862",
+      "name_zh": "完善",
+      "name_en": "Consolidation",
+      "text_zh": "乾隆四十三年（1778），换防绿营改为携眷移驻；四十四至四十五年，拱宸、广仁、瞻德、熙春四城同时建成，伊犁九城最终成形。乾隆四十二年（1777）起，84座卡伦分属六处辖区；军台、营盘、炮台把河谷织成一张防御的网。商业随之而起：惠远的铺面房、北关官铺、西门外的贸易亭，洪亮吉笔下“三日城西路不开”的牛羊互市。",
+      "text_en": "In 1778 the rotating Green Standard garrisons became permanent settlers; in 1779–80 the four towns Gongchen, Guangren, Zhande and Xichun rose together — the Nine Towns of Ili were complete. From 1777, eighty-four karun were divided among six jurisdictions; post stations, encampments and batteries wove the valley into a net. Commerce followed: Huiyuan's rental shops, the north-suburb government stores, the trade pavilion outside the west gate, and the great stock fairs of Hong Liangji's verse.",
+      "cities": [
+        "gongchen",
+        "guangren",
+        "zhande",
+        "xichun"
+      ]
+    },
+    {
+      "id": "war",
+      "years_zh": "1864–1881",
+      "years_en": "1864–1881",
+      "name_zh": "战乱",
+      "name_en": "War and Occupation",
+      "text_zh": "同治三年（1864），回变自宁远爆发，三年内九城相继陷落：1866年正月惠远城破，将军明绪阖门殉难；四月拱宸粮尽而陷，“伊犁辖境无一寸干净土”。1871年，沙俄出兵侵占伊犁，平毁惠远、巴彦岱、霍尔果斯三城房屋，拆各城材木营建宁远市廛，“尽徙遣民于宁远”。九城体系，至此崩塌。",
+      "text_en": "In 1864 revolt broke out from Ningyuan; within three years all nine towns fell. In early 1866 Huiyuan was breached by explosives, General Mingxu dying with his household; in the fourth month Gongchen starved out — \"not an inch of clean soil left in Ili\". In 1871 Russian forces occupied the valley, levelling the houses of Huiyuan, Bayandai and Horgos, stripping timber from the towns to build up Ningyuan, and \"moving the remaining population into Ningyuan\". The nine-town system collapsed.",
+      "cities": []
+    },
+    {
+      "id": "reconstruction",
+      "years_zh": "1882–1911",
+      "years_en": "1882–1911",
+      "name_zh": "重建",
+      "name_en": "Reconstruction",
+      "text_zh": "光绪八年（1882），清廷收复伊犁，将军金顺择要修复：绥定、瞻德率先修筑，惠远新城在高敞处仿九里三分旧制重建，1892年竣工；霍尔果斯之拱宸、芦草沟之广仁，“最关紧要，亟应修建”。同年，边界上自纳林哈勒哈至沁达兰一千三百余里新设卡伦十八处，锡伯、索伦、厄鲁特等营安卡伦台站四十五处——旧的体系没有复原，一个新的边境秩序取而代之。",
+      "text_en": "In 1882 the court recovered Ili, and General Jinshun rebuilt by priority: Suiding and Zhande first; New Huiyuan rising on high open ground to the old 9.3-li measure, completed 1892; Gongchen at Horgos and Guangren at Lucaogou, \"most vital, to be built without delay\". On the new boundary, eighteen karun were set along 1,300 li from Narin Halga to Qindalan, while the Xibe, Solon and Oirat battalions manned forty-five pickets and stations — the old system was not restored; a new border order took its place.",
+      "cities": [
+        "huiyuan-new-city"
+      ]
+    }
+  ],
+  "karun_system": {
+    "title_zh": "卡伦制度",
+    "title_en": "The Karun System",
+    "types": [
+      {
+        "name_zh": "常设卡伦",
+        "name_en": "Permanent karun",
+        "text_zh": "“历年不移而设有定地者”——驻防时间与地点均固定。",
+        "text_en": "\"Those fixed in place and unmoved year after year\" — permanent in both post and posting."
+      },
+      {
+        "name_zh": "移设卡伦",
+        "name_en": "Rotating karun",
+        "text_zh": "“有时在此处安设，有时移向彼处，或春秋两季递移，或春冬两季递移”——随季节在两地之间迁移。",
+        "text_en": "\"Sometimes set here, sometimes moved there — shifting with spring and autumn, or spring and winter\" — posts that moved with the seasons."
+      },
+      {
+        "name_zh": "添撤卡伦",
+        "name_en": "Seasonal karun",
+        "text_zh": "“其地虽有卡伦，而有时安设，过时则撤者”——地点固定，按季节设撤。",
+        "text_en": "\"Places that have a karun, set up in season and withdrawn after\" — fixed sites, seasonal manning."
+      }
+    ],
+    "jurisdiction_zh": "乾隆四十二年（1777），将军伊勒图奏令各领队大臣分管卡伦：惠宁城领队大臣辖8座，锡伯营辖11座，索伦营辖10座，察哈尔营辖21座，厄鲁特营辖32座，伊犁营务处辖2座，共84座。两卡伦递筹巡查之路曰“开齐”，小卡伦分置瞭望之处曰“布克申”。",
+    "jurisdiction_en": "In 1777 General Iletu assigned the karun to the several commandants: Huining city 8, the Xibe battalion 11, Solon 10, Chahar 21, Oirat 32, and the Ili command 2 — 84 in all. The patrol path passed between two karun was the kaiqi; a lesser post's lookout point, the bukeshun.",
+    "duties_zh": "卡伦的职能远不止看守边界：监护矿山、守护封禁资源、稽查游牧、监护屯田、稽查贸易并征收赋税、检验税票、查拿逃犯与盗贼、传递官方文书。一座卡伦，就是帝国神经系统的末梢。",
+    "duties_en": "A karun's duties went far beyond watching the border: guarding mines and reserved resources, checking nomad movements, supervising military farms, inspecting trade and collecting customs, verifying tax warrants, pursuing fugitives and robbers, relaying official dispatches. A karun was the nerve-ending of the empire.",
+    "interior_quotes": [
+      {
+        "text_zh": "“正中有平房三间，谓之嘎赉达（翼长）住室，房屋虽低矮窄小，亦甚坚固。两旁有索伦官兵住房二间，东西两翼盖有马厩。大门内两侧，各有一间平房，此乃额鲁特营士兵之住所也。”",
+        "text_en": "\"In the centre stood three plain rooms, the wing-commander's quarters — low and narrow but very solid. On either side, two rooms for the Solon officers and men; stables filled the east and west wings. Inside the gate, one room each side for the Oirat soldiers.\"",
+        "source_zh": "换防士兵何叶尔·文克津回忆",
+        "source_en": "Memoir of Heyer Wenkejin, a rotated soldier"
+      },
+      {
+        "text_zh": "“每个卡伦有三间土打墙的房子住人，里面有睡炕，西面另有两间房当库房。”",
+        "text_en": "\"Every karun had three stamped-earth rooms for living, with sleeping kangs inside, and two more rooms on the west side as stores.\"",
+        "source_zh": "锡伯驻守老兵灵福寿回忆",
+        "source_en": "Memoir of Ling Fushou, veteran Xibe karun guard"
+      }
+    ],
+    "periods_zh": "现存卡伦可分为两期：乾隆期卡伦（如哈桑、格登山、纳林哈勒噶）多位于山口平地，地势高、视野阔，保存较差，城墙多呈土垄状；光绪期卡伦（如沙彦、头湖、纳旦木等）多沿边境线分布，墙体仍存，城门、角台清晰。前期卡伦职能多元，后期卡伦专注于边界看守——卡伦的历史，就是边疆概念变化的历史。",
+    "periods_en": "Surviving karun fall into two periods. Qianlong-era posts (Hasan, Gedengshan, Narin Halga) sit on high, open ground by mountain passes and survive poorly, their walls reduced to banks. Guangxu-era posts (Shayan, Touhu, Nadanmu and others) line the border itself, walls standing, gates and corner platforms clear. Early karun did many jobs; late karun did one — watch the boundary. The history of the karun is the history of the very idea of a frontier.",
+    "sources": [
+      "《清史稿·兵志》",
+      "《西陲屏藩》第三、五章"
+    ]
+  },
+  "garrison_life": {
+    "title_zh": "戍边生活",
+    "title_en": "Garrison Life",
+    "disposition_zh": "四营的格局，时人记为：“东北则有察哈尔，西北则有索伦，西南则有锡伯，自西南至东南则有（厄鲁特）。”每个营都是一座流动的家园：官兵携眷而居，朝廷按例“每兵给羊二十五只”，锡伯营沿绰豁尔渠筑堡屯耕，察哈尔与厄鲁特在山间游牧，索伦营守霍尔果斯河两岸。",
+    "disposition_en": "A contemporary recorded the four battalions' disposition: \"The Chahar to the northeast, the Solon to the northwest, the Xibe to the southwest, and from southwest to southeast, the Oirat.\" Each battalion was a transported homeland: officers and men lived with their families, each soldier allotted twenty-five sheep by regulation. The Xibe built forts and farmed along the Qohqar canal; Chahar and Oirat pastured the mountains; the Solon kept both banks of the Horgos.",
+    "canal_zh": "嘉庆元年（1796），锡伯营总管图伯特倡导并指挥开挖察布查尔大渠，引伊犁河水入河南岸荒原。至光绪三十四年（1908），这条渠“分饮八处牛录屯工，无余流”——渠水依次流过二、八、七、六、五、四、头、三牛录。水到哪里，村庄就到哪里；今天察布查尔的村镇格局，仍然是这条渠写出来的。",
+    "canal_en": "In 1796 Tubet, commander of the Xibe battalion, proposed and directed the digging of the Qapqal Grand Canal, bringing Ili water onto the south-bank waste. By 1908 the canal \"watered all eight niru fields with nothing to spare\", passing the 2nd, 8th, 7th, 6th, 5th, 4th, 1st and 3rd niru in turn. Where the water went, the villages followed; the settlement pattern of today's Qapqal is still written by this canal.",
+    "faith_zh": "牛录城堡里的宗教建筑，是锡伯人精神世界的地图：关帝庙宣扬忠武，几乎每个城堡都有；娘娘庙寄托世俗生活的企盼；孙扎齐牛录的靖远寺是藏传佛教寺院，三世佛大殿顶铺彩色玻璃瓦；纳达齐牛录的图公祠，则专门纪念本民族的英雄图伯特。中原文化与本民族特点，在同一条街上融合。",
+    "faith_en": "The temples of the niru forts map the Xibe spirit world: Guandi temples preaching loyalty and war stood in nearly every fort; Goddess temples carried everyday hopes; the Jingyuan lamasery at Sunjaqi served Tibetan Buddhism, its main hall roofed in coloured glazed tiles; and the Shrine of Duke Tu at Nadaqi honoured the nation's own hero, Tubet. Central Plains culture and the people's own memory, fused on one street.",
+    "sources": [
+      "《西陲屏藩》第三、六章",
+      "谢善智《锡伯老兵话卡伦》"
+    ]
+  },
+  "dual_core": {
+    "title_zh": "双核与都会",
+    "title_en": "Two Cores and a Metropolis",
+    "text_zh": "九城不是平摊的九个点，而是有结构的体系。清人记其布局：“伊犁凡九城，驻防满洲八旗官兵分驻惠远、惠宁两城。惠远居西，惠宁居东，相距七十余里……其余六城驻绿营官兵。”惠远与惠宁两座满城是双核，其余七城按等级环绕。商业随之而来：惠远城内铺面房收租充公，北关修官铺房八十间，药铺、当铺、恩济库皆备；西门外设贸易亭，哈萨克、布鲁特、安集延商人在此互市，咸丰元年（1851）起俄国也获准在伊犁、塔尔巴哈台通商。庄肇奎诗写南市盛况：“齐向鼓楼南市里，一时争买大头鱼。”——军城就这样长成了城市。",
+    "text_en": "The nine towns were not nine equal dots but a structured system. A Qing writer put it: \"Of Ili's nine towns, the Manchu eight banners are split between Huiyuan and Huining — Huiyuan west, Huining east, seventy li apart … the other six towns hold Green Standard troops.\" The two Manchu towns were the twin cores, the other seven ranged around them by rank. Commerce followed: Huiyuan's shopfronts rented for public funds, eighty government shops in the north suburb, apothecaries, pawnshops and relief treasuries; outside the west gate a trade pavilion hosted Kazakh, Kirghiz and Andijani merchants, and from 1851 Russia won the right to trade at Ili and Tarbagatai. Zhuang Zhaokui's verse catches the South Market: \"All rush to the drum-tower's southern market at once, fighting to buy the big-head fish.\" Thus the garrison grew into a city.",
+    "sources": [
+      "《新疆识略》",
+      "《西陲屏藩》第七章"
+    ]
+  },
+  "environment": {
+    "title_zh": "山与水之间",
+    "title_en": "Between Mountains and Water",
+    "text_zh": "《伊江汇览》这样写伊犁的地理：“自嘉峪关迤西，峰岭袤延绵亘，衔次入塔尔奇山口，平川数百里，即伊犁也。”河谷两侧的山脉在东部交汇，使伊犁成为一只开口向西的口袋；伊犁河及其支流穿谷而过。影响驻城选址的地理要素有两个：天山支脉与河流。城要扼山口（塔勒奇守果子沟），要临水（惠远临伊犁河），又要避水患——惠远老城最终被河水吞没，而惠远新城选址的第一条教训，就是要选在“高敞处”。古地图式的叙事底图，正是要把这层山、水、城的关系讲出来。",
+    "text_en": "The Yijiang Huilan describes Ili's geography: \"West of the Jiayu Pass, ranges stretch on and on until the Taleqi pass; then several hundred li of open plain — that is Ili.\" The ranges on both sides meet in the east, making the valley a pocket open to the west, threaded by the Ili river and its tributaries. Two geographic factors decided where the towns were sited: the Tianshan's branches, and the rivers. A town must hold a pass (Taleqi guards the Guozigou) and face water (Huiyuan on the Ili), yet escape the floods — Old Huiyuan was finally devoured by the river, and the first lesson its successor drew was to build on \"high, open ground\". The antique-style narrative basemap exists to tell exactly this relation of mountains, water and walls.",
+    "sources": [
+      "《伊江汇览》",
+      "《西陲屏藩》第七章"
+    ]
+  },
+  "quotes": [
+    {
+      "text_zh": "谁跨明驼天半回，传呼布鲁特人来。牛羊十万鞭驱至，三日城西路不开。",
+      "text_en": "Who rides a bright camel down from the sky? The cry goes up: the Kirghiz are here. A hundred thousand head driven to market — for three days the west road cannot move.",
+      "source_zh": "洪亮吉《伊犁纪事诗》",
+      "source_en": "Hong Liangji, Poems on Ili",
+      "about": "huiyuan-old"
+    },
+    {
+      "text_zh": "伊犁江上泮冰初，雪圃才消未有蔬。齐向鼓楼南市里，一时争买大头鱼。",
+      "text_en": "The ice on the Ili has just broken, the snowy plots are bare of greens; all crowd to the drum-tower's southern market at once, fighting for the big-head fish.",
+      "source_zh": "庄肇奎诗（书引）",
+      "source_en": "Zhuang Zhaokui, quoted in the monograph",
+      "about": "huiyuan-old"
+    },
+    {
+      "text_zh": "惟拱宸坚守。四月，粮尽而陷，兵民被屠，自是伊犁辖境无一寸干净土矣。",
+      "text_en": "Gongchen alone held fast. In the fourth month its grain ran out and it fell, soldiers and people slaughtered; from then there was not an inch of clean soil left in Ili.",
+      "source_zh": "《戡定新疆记》卷一",
+      "source_en": "Kanding Xinjiang Ji (Record of the Pacification of Xinjiang)",
+      "about": "gongchen"
+    },
+    {
+      "text_zh": "锡伯营在伊犁河南岸，八旗八堡，屯耕而食，其地宽十数里至三四十里，东西长二百余里。",
+      "text_en": "The Xibe battalion lies on the south bank of the Ili: eight banners in eight forts, tilling to feed themselves, over land ten to thirty or forty li wide and more than two hundred li east to west.",
+      "source_zh": "《西陲屏藩》第三章引时人记载",
+      "source_en": "Contemporary account quoted in the monograph",
+      "about": "niulu"
+    }
+  ],
+  "burials_intro": {
+    "title_zh": "更早的居民",
+    "title_en": "The Earlier Inhabitants",
+    "text_zh": "在锡伯人到来的一两千年前，这片河谷已经是别人的家园。伊犁河谷的草原上分布着大量早期铁器时代的墓葬——封土堆与石围圈，大多没有名字，没有文字。我们的研究团队用卫星遥感与实地踏查，在河谷中西段新发现了一批此前未见记录的墓葬点。它们与清代的城、卡伦叠压在同一片土地上：这片河谷从不缺守卫者，只是一茬换了一茬。（注：为保护遗址，图中坐标已做随机偏移处理，仅供理解分布格局。）",
+    "text_en": "One or two thousand years before the Xibe arrived, this valley was already someone's homeland. The Ili grasslands are dotted with early Iron Age burials — mounds and stone circles, mostly nameless, wordless. Using satellite remote sensing and field survey, our team has newly recorded a group of previously undocumented burial sites in the valley's central-western reaches. They lie in the same ground as the Qing towns and karun: this valley has never lacked guardians — one watch simply relieved another. (Note: to protect the sites, coordinates on the map have been randomly offset and show only the general pattern.)",
+    "sources": [
+      "项目团队遥感调查数据"
+    ]
+  },
+  "secondary_sites": [
+    {
+      "id": "hashi-huaishun",
+      "name_zh": "哈什回城（怀顺城）",
+      "name_en": "Khash (Huaishun) City",
+      "year": 1765,
+      "period": "height",
+      "role_zh": "回人自筑之城",
+      "role_en": "A town the Muslim community built for itself",
+      "location_zh": "今伊宁县喀什乡赛皮尔村（维语“城墙”之意）北，南临伊犁河",
+      "location_en": "North of Saipi'er village — whose Uyghur name means \"city wall\" — Khash township, Yining County",
+      "text_zh": "乾隆三十年（1765）二月建成。与其他八城不同，它是回人自愿修筑的大城：哈什的回户在巴尔托辉地方，由阿奇木公茂萨主持筑城，城内居回户二千一百二十户。城筑在乾隆的围猎地附近——皇帝的猎场与回人的新城比邻，本身就是帝国秩序的一种构图。实测城为正方形，周长1848米，开南门。它不属于“伊犁九城”，却是理解九城体系不可缺少的一块：军城、满城、回城、屯城，各司其职。",
+      "text_en": "Completed in the second month of 1765. Unlike the other towns, this one the Muslim community built voluntarily: the Khash households raised their walls at Bartohui under the Hakim Beg Musa, housing 2,120 Muslim households. The town stood near the Qianlong hunting grounds — the emperor's chase beside the Muslims' new town was itself a composition of imperial order. Measured today, the square circuit runs 1,848 m with a south gate. Not one of the Nine Towns, yet indispensable to understanding the system: garrison towns, Manchu towns, Muslim towns, colony towns, each with its work.",
+      "remains_zh": "地面已无城墙痕迹；1965年锁眼影像仍可见完整轮廓，2010年影像中北、东、西墙遗痕尚存。村名“赛皮尔”即维语“城墙”——墙倒了，名字留着。",
+      "remains_en": "No wall trace survives on the ground; the 1965 imagery shows the full outline, and 2010 imagery still shows three walls. The village name Saipi'er means \"city wall\" in Uyghur — the wall fell, the name stayed.",
+      "sources": [
+        "《西陲屏藩》第三、四章"
+      ]
+    },
+    {
+      "id": "solon-garrison-town",
+      "name_zh": "索伦营城",
+      "name_en": "The Solon Battalion Town",
+      "year": 1765,
+      "period": "height",
+      "role_zh": "索伦营的驻屯城",
+      "role_en": "Home fort of the Solon battalion",
+      "location_zh": "今霍城县内，北距G312国道约1.1公里，精霍铁路穿城而过",
+      "location_en": "Huocheng County, 1.1 km south of the G312 highway; the Jinghe–Horgos railway crosses the site",
+      "text_zh": "索伦营1764年自黑龙江流域西迁，落驻霍尔果斯河东西两岸；这座近似长方形的城就是他们的屯驻中心。城开东、西、南三门，南门外设马蹄形瓮城，北墙内侧有长方形土台，城内十字大街，卫星影像上隐约可见联排式建筑——那是成排兵房的痕迹，与九城兵房的布局如出一辙。实测周长2669米。今天，精霍铁路从城址中穿过：两条相隔两百五十年的交通线，在同一个点上相交。",
+      "text_en": "The Solon battalion marched from the Heilongjiang country in 1764 and settled along both banks of the Horgos river; this near-rectangular town was their centre. Three gates — east, west, south — the south with a horseshoe barbican; a long earthen platform inside the north wall; cross streets, and rows of joined buildings faintly visible on satellite imagery — barrack rows exactly as in the nine towns. Measured circuit 2,669 m. Today the Jinghe–Horgos railway runs straight through the site: two lines of communication, 250 years apart, crossing at one point.",
+      "remains_zh": "城墙现已无存；1965年锁眼影像中轮廓完整。",
+      "remains_en": "No walls survive; the full outline is visible on 1965 imagery.",
+      "sources": [
+        "《西陲屏藩》第四章第四节"
+      ]
+    },
+    {
+      "id": "huoshaozhuangzi-ancient-city",
+      "name_zh": "火烧庄子古城",
+      "name_en": "Huoshaozhuangzi Ancient City",
+      "year": null,
+      "period": "unknown",
+      "role_zh": "塔勒奇城旁的前代古城",
+      "role_en": "An older fort beside Taleqi",
+      "location_zh": "塔勒奇城西南侧约270米处，西临果子沟河",
+      "location_en": "270 m south-west of Taleqi, beside the Guozigou river",
+      "text_zh": "就在清代第一城塔勒奇的旁边，躺着一座更早的城：不规则五边形，周长817米，两个门一个朝向塔勒奇河、一个正对塔勒奇城。调查中采集到绛色陶片和青花瓷片，年代上限可能到元代。书中推测它与用水有关——或许是利用塔勒奇河水为军城提供物资或水能的设施，也许只是一座营盘。两种推测都待验证，但它的存在本身就说明：清廷选择在果子沟口筑城，不是偶然——早在清军到来之前，古人已经看中了同一个山口。",
+      "text_en": "Right beside Taleqi, the first Qing town, lies an older fort: an irregular pentagon of 817 m, its two gates facing respectively the Taleqi river and the Qing town. Surveys collected maroon pottery and blue-and-white porcelain sherds, suggesting a date perhaps as early as the Yuan. The book links it to water — perhaps a facility using the river to supply or power the garrison town, perhaps just an encampment. Both readings await proof, but its presence alone says this: the Qing choice of the Guozigou mouth was no accident. Long before the banners arrived, others had already prized the same pass.",
+      "remains_zh": "城墙遗迹仍存，墙基高约3米，底宽17米，顶宽5米，城外有护城壕痕迹。",
+      "remains_en": "Walls survive — bases about 3 m high, 17 m at the foot, 5 m on top — with traces of a moat.",
+      "sources": [
+        "《西陲屏藩》第四章第四节"
+      ]
+    }
+  ]
+}

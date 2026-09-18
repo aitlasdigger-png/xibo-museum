@@ -1,0 +1,32 @@
+# 敏感数据 — 墓葬精确坐标备份，请勿公开发布
+app/src/data/burials_precise_backup.json
+
+# 构建产物
+app/dist/
+dist/
+
+# 依赖
+node_modules/
+
+# 日志
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# 编辑器 / 系统
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# 本地环境
+*.local
+.env
+.env.*

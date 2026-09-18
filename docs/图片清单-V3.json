@@ -1,0 +1,25 @@
+{
+  "note": "寻迹锡伯 V3 图片清单：content_v3.json 每个条目 image_hint 与这里的文件对应；旧图(V2)继续沿用。所有新图位于 app/public/assets/img/，AIGC 生成。",
+  "new_v3": {
+    "mig-departure.png": "migration.stops[0] 盛京出发",
+    "mig-steppe.png": "migration.stops[2-3] 张家口外/库伦（蒙古高原跋涉）",
+    "mig-sheep.png": "migration.stops[4] 乌里雅苏台三万只羊交割",
+    "mig-arrival.png": "migration.stops[7] 抵达伊犁河南岸",
+    "war-fall-1866.png": "timeline[3] 战乱（1864-1881）章节头图",
+    "rebuild-1892.png": "timeline[4] 重建 / cities[huiyuan-new-city]",
+    "city-gongchen.png": "cities[gongchen] 拱宸城（补齐九城图）",
+    "niulu-fort.png": "niulu_intro / 牛录城堡通用头图",
+    "niulu-temples.png": "niulu[sunjaqi-niru] 靖远寺+关帝庙 / garrison_life.faith",
+    "canal-1796.png": "garrison_life.canal 图伯特开挖察布查尔大渠 / niulu[nadaqi-niru] 图公祠",
+    "karun-border-line.png": "karun_intro / 光绪边界卡伦（索伦营北段各卡）"
+  },
+  "existing_v2_reuse": {
+    "prologue-hero.png": "prologue",
+    "route-westward.png": "migration 备用",
+    "city-taleqi/suiding/ningyuan/huiyuan-old/huining/guangren/zhande/xichun/huiyuan-new.png": "各城条目",
+    "karun-watchtower/drill/farming/family/life.png": "karun 生活条目配图",
+    "remote-sensing.png": "burials_intro 方法图",
+    "kurgan-night.png": "burials_intro 氛围图"
+  },
+  "pending_real_photos": "历史照片（Lansdell 1885 绥定门版画、Orden 固勒扎宣礼塔、Finna/Mannerheim、LOC 1864 嘉峪关外镇迪伊犁合图、CC BY-SA 遗址照片等）沙箱内无法下载，清单见 PRD V2 §9.2.1，重构时以 URL 直链嵌入"
+}

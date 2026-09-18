@@ -1,0 +1,212 @@
+[
+ {
+  "id": "b00",
+  "lon": 80.92641,
+  "lat": 43.49034,
+  "type_zh": "墓葬地",
+  "type_en": "Extended burial field",
+  "desc_en": "chains, rows of mounds",
+  "status": "ai_detected",
+  "obfuscated": true
+ },
+ {
+  "id": "b01",
+  "lon": 80.78758,
+  "lat": 42.73711,
+  "type_zh": "墓葬群",
+  "type_en": "Burial complex",
+  "desc_en": "chains of mounds all around",
+  "status": "ai_detected",
+  "obfuscated": true
+ },
+ {
+  "id": "b02",
+  "lon": 80.67018,
+  "lat": 42.8859,
+  "type_zh": "墓葬地",
+  "type_en": "Burial field",
+  "desc_en": "chains of kurgans",
+  "status": "ai_detected",
+  "obfuscated": true
+ },
+ {
+  "id": "b03",
+  "lon": 80.59521,
+  "lat": 42.86665,
+  "type_zh": "墓葬群",
+  "type_en": "Compact mound group",
+  "desc_en": "of burial mounds",
+  "status": "ai_detected",
+  "obfuscated": true
+ },
+ {
+  "id": "b04",
+  "lon": 80.68061,
+  "lat": 42.87272,
+  "type_zh": "封堆地",
+  "type_en": "Kurgan field",
+  "desc_en": "large scale chain system of burial mopunds",
+  "status": "ai_detected",
+  "obfuscated": true
+ },
+ {
+  "id": "b05",
+  "lon": 80.4441,
+  "lat": 42.70977,
+  "type_zh": "墓葬群",
+  "type_en": "Compact mound group",
+  "desc_en": "of burial mounds and earthworks of fortification",
+  "status": "ai_detected",
+  "obfuscated": true
+ },
+ {
+  "id": "b06",
+  "lon": 80.43071,
+  "lat": 42.68635,
+  "type_zh": "墓葬群",
+  "type_en": "Compact mound group",
+  "desc_en": "well shaped and preserved mounds",
+  "status": "ai_detected",
+  "obfuscated": true
+ },
+ {
+  "id": "b07",
+  "lon": 80.46918,
+  "lat": 42.69735,
+  "type_zh": "封堆列",
+  "type_en": "Kurgan row",
+  "desc_en": "and another of smaller mounds to W",
+  "status": "ai_detected",
+  "obfuscated": true
+ },
+ {
+  "id": "b08",
+  "lon": 80.53828,
+  "lat": 42.69823,
+  "type_zh": "封堆列",
+  "type_en": "Kurgan row",
+  "desc_en": "3 well preserved with 100m diameter radius",
+  "status": "ai_detected",
+  "obfuscated": true
+ },
+ {
+  "id": "b09",
+  "lon": 80.5483,
+  "lat": 42.68464,
+  "type_zh": "封堆列",
+  "type_en": "Kurgan row",
+  "desc_en": "one member with rectangular shape",
+  "status": "ai_detected",
+  "obfuscated": true
+ },
+ {
+  "id": "b10",
+  "lon": 80.60025,
+  "lat": 42.67276,
+  "type_zh": "古墓葬群",
+  "type_en": "Ancient burial complex",
+  "desc_en": "every kinds and formations of burial mounds everywhere",
+  "status": "ai_detected",
+  "obfuscated": true
+ },
+ {
+  "id": "b11",
+  "lon": 81.89051,
+  "lat": 43.13579,
+  "type_zh": "墓葬群",
+  "type_en": "Burial complex",
+  "desc_en": "mounds and fortifications - the whole archaeological complex has been erased (!) - Check recent satellite imagery!",
+  "status": "ai_detected",
+  "obfuscated": true
+ },
+ {
+  "id": "b12",
+  "lon": 82.52327,
+  "lat": 43.26714,
+  "type_zh": "墓葬地",
+  "type_en": "Burial field",
+  "desc_en": "large scale burial field along the ridge - this kurgan next to mark with barred circle feature around",
+  "status": "ai_detected",
+  "obfuscated": true
+ },
+ {
+  "id": "b13",
+  "lon": 80.57444,
+  "lat": 43.79181,
+  "type_zh": "封堆链",
+  "type_en": "Kurgan chain",
+  "desc_en": "and interesting earthworks NW",
+  "status": "ai_detected",
+  "obfuscated": true
+ },
+ {
+  "id": "b14",
+  "lon": 81.80384,
+  "lat": 43.26771,
+  "type_zh": "墓葬链",
+  "type_en": "Mound chain",
+  "desc_en": "1,3 km (0,8 miles) long chain of burial mounds",
+  "status": "ai_detected",
+  "obfuscated": true
+ },
+ {
+  "id": "b15",
+  "lon": 81.71681,
+  "lat": 43.26356,
+  "type_zh": "墓葬链",
+  "type_en": "Mound chain",
+  "desc_en": "closing chain of kurgans and earthworks (fort?)",
+  "status": "ai_detected",
+  "obfuscated": true
+ },
+ {
+  "id": "b16",
+  "lon": 81.01566,
+  "lat": 43.04542,
+  "type_zh": "封堆地",
+  "type_en": "Kurgan field",
+  "desc_en": "chains and clusters of burial mounds",
+  "status": "ai_detected",
+  "obfuscated": true
+ },
+ {
+  "id": "b17",
+  "lon": 81.02705,
+  "lat": 42.99154,
+  "type_zh": "墓葬遗址",
+  "type_en": "Burial site",
+  "desc_en": "chain system of burial mounds on the ridge all along the river in view set",
+  "status": "ai_detected",
+  "obfuscated": true
+ },
+ {
+  "id": "b18",
+  "lon": 81.02779,
+  "lat": 43.2785,
+  "type_zh": "巨型封堆",
+  "type_en": "Giant kurgan",
+  "desc_en": "~50 m radius",
+  "status": "ai_detected",
+  "obfuscated": true
+ },
+ {
+  "id": "b19",
+  "lon": 82.78253,
+  "lat": 43.83506,
+  "type_zh": "封堆地",
+  "type_en": "Kurgan field",
+  "desc_en": "under demolishion",
+  "status": "ai_detected",
+  "obfuscated": true
+ },
+ {
+  "id": "b20",
+  "lon": 81.69894,
+  "lat": 42.97412,
+  "type_zh": "墓葬遗址",
+  "type_en": "Burial site",
+  "desc_en": "of kurgans on a vast burial field",
+  "status": "ai_detected",
+  "obfuscated": true
+ }
+]

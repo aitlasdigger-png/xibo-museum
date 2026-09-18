@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,700;1,500&family=Noto+Serif+SC:wght@500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 42 38% 85%;
+    --foreground: 33 31% 22%;
+    --card: 44 45% 90%;
+    --card-foreground: 33 31% 22%;
+    --popover: 44 45% 90%;
+    --popover-foreground: 33 31% 22%;
+    --primary: 8 59% 41%;
+    --primary-foreground: 44 45% 92%;
+    --secondary: 40 25% 80%;
+    --secondary-foreground: 33 31% 22%;
+    --muted: 40 25% 80%;
+    --muted-foreground: 36 26% 38%;
+    --accent: 40 25% 80%;
+    --accent-foreground: 33 31% 22%;
+    --destructive: 0 62% 40%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 36 26% 60%;
+    --input: 36 26% 60%;
+    --ring: 8 59% 41%;
+    --radius: 0.25rem;
+    --sidebar-background: 44 45% 90%;
+    --sidebar-foreground: 33 31% 22%;
+    --sidebar-primary: 8 59% 41%;
+    --sidebar-primary-foreground: 44 45% 92%;
+    --sidebar-accent: 40 25% 80%;
+    --sidebar-accent-foreground: 33 31% 22%;
+    --sidebar-border: 36 26% 60%;
+    --sidebar-ring: 8 59% 41%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+.font-display { font-family: 'Playfair Display', 'Noto Serif SC', serif; }
+body { font-family: 'Noto Serif SC', 'Playfair Display', serif; background: #ece1c5; }
+
+html { scroll-behavior: smooth; }
+.maplibregl-canvas { outline: none; }
+
+::selection { background: #a63a2b33; }
+
+/* 地图容器高度 */
+.act1-map { height: min(72vh, 640px); width: 100%; }
+.act2-map { height: min(68vh, 620px); width: 100%; }
+.act3-map { height: min(66vh, 600px); width: 100%; }
+.act4-map { height: min(70vh, 640px); width: 100%; }
+
+/* MapLibre 控件风格适配 */
+.maplibregl-ctrl-attrib {
+  background: #f4ecd8cc !important;
+  font-size: 10px !important;
+}
+.maplibregl-ctrl-attrib a { color: #7d6547 !important; }
+.maplibregl-ctrl-group {
+  background: #f4ecd8 !important;
+  box-shadow: 0 0 0 1px #7d654755 !important;
+}
+.maplibregl-ctrl-group button + button { border-top: 1px solid #7d654733 !important; }
+.maplibregl-ctrl-zoom-in .maplibregl-ctrl-icon,
+.maplibregl-ctrl-zoom-out .maplibregl-ctrl-icon,
+.maplibregl-ctrl-compass .maplibregl-ctrl-icon { filter: sepia(1) saturate(0.6) brightness(0.55); }
+
+/* 响应式 */
+@media (max-width: 980px) {
+  .act1-grid, .act2-grid, .act4-grid { grid-template-columns: 1fr !important; }
+  .act2-imgs, .act3-cols { grid-template-columns: 1fr !important; }
+  .act1-grid > div:first-child { position: relative !important; top: 0 !important; }
+  .act1-map { height: 52vh; }
+  .act2-map, .act3-map, .act4-map { height: 56vh; }
+}
+@media (max-width: 760px) {
+  .topnav-links a { display: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}
+
+/* 民歌馆：淡入 + 缓推镜 */
+@keyframes songFade {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+.kenburns {
+  animation: songFade 0.9s ease both, kenburnsMove 16s ease-out both !important;
+}
+@keyframes kenburnsMove {
+  from { transform: scale(1.02) translate(0, 0); }
+  to { transform: scale(1.12) translate(-1.2%, -1.5%); }
+}

@@ -1,0 +1,247 @@
+{
+  "meta": {
+    "id": "song-pavilion",
+    "title_zh": "长歌西去",
+    "title_en": "The Long Song West",
+    "subtitle_zh": "民歌馆 · 《西迁之歌》十二幕",
+    "subtitle_en": "The Song Pavilion · Twelve Scenes from the Song of the Westward Migration",
+    "song_name_zh": "西迁之歌",
+    "song_source_zh": "锡伯族民间长诗，管兴才整理（20世纪50年代），伊犁州级非物质文化遗产",
+    "song_source_en": "A Xibe folk epic, compiled by Guan Xingcai in the 1950s; inscribed as intangible cultural heritage of Ili Prefecture",
+    "lyric_attribution_zh": "歌词摘自管兴才整理本《西迁之歌》，本馆节选并附英译",
+    "lyric_attribution_en": "Lyric excerpts from Guan Xingcai's compilation of The Song of the Westward Migration; English translations by this museum",
+    "adaptation_note_zh": "十二幕按叙事弧线编排；第8幕歌词取自原诗第三部分，为画面调序，特此说明",
+    "adaptation_note_en": "The twelve scenes follow a narrative arc; the lyric of Scene 8 is taken from Part III of the original poem to match the image — an intentional reordering",
+    "audio_mode": "loop",
+    "audio_dir": "assets/audio/",
+    "audio_note_zh": "背景音：《西迁之歌》原声——国家级非物质文化遗产传承人佟李美（93岁）清唱（2022年录制，来源：bilibili BV1xG411E7pM，版权归原作者）",
+    "image_style_suffix": " restrained historical painting, muted earth palette, consistent film grain and lighting, cinematic composition, no text, no watermark, 18th century Ili valley and Central Asia",
+    "gate_intro_zh": "1764年，三千余名锡伯人离开盛京，走向万里之外的伊犁。他们把这条路唱成了一首长诗——《西迁之歌》，被族人传唱至今。本馆将长诗节选为十二幕：按下启卷，歌声起，画卷开。",
+    "gate_intro_en": "In 1764, over three thousand Xibe left Shengjing for Ili, ten thousand li away. They sang that road into a long poem — the Song of the Westward Migration — still sung among the people today. This pavilion unrolls the epic in twelve scenes: press the button, the song begins, the scroll opens.",
+    "outro_title_zh": "这首歌从哪来",
+    "outro_text_zh": "《西迁之歌》是锡伯族民间长诗，20世纪50年代由锡伯族民间诗人管兴才根据新疆锡伯后人的传唱整理成文，全诗127组、每组4行，分四个部分：西迁的缘由与征途、抵达后的立足、屯垦与水利、戍边与传承，被誉为“锡伯族《离骚》”，已列入伊犁州级非物质文化遗产。本馆节选其中十二段，每段2—4行，配以AI生成的历史场景画；歌词中译英为本馆所译。本馆背景音为国家级非遗传承人佟李美93岁时清唱《西迁之歌》的原声（2022年录制），循环播放，以歌为引。",
+    "outro_text_en": "The Song of the Westward Migration is a Xibe folk epic, compiled in the 1950s by the folk poet Guan Xingcai from versions sung by Xibe descendants in Xinjiang: 127 quatrains in four parts — the reasons and the road, the footing gained, the farms and canals, the frontier kept. It has been called \"the Xibe Li Sao\" and is inscribed as intangible cultural heritage of Ili Prefecture. This pavilion excerpts twelve passages of two to four lines each, paired with AI-generated historical scenes; English translations are ours. The background audio is the original voice of national-level heritage bearer Tong Limei, recorded at age 93 singing the epic a cappella (2022), played in a loop as the pavilion’s guiding voice.",
+    "aigc_notice_zh": "本馆全部画面为 AI 生成的历史场景复原，非历史照片",
+    "aigc_notice_en": "All images in this pavilion are AI-generated historical reconstructions, not historical photographs",
+    "audio_loop": "xiqian-original-tonglimei.mp3",
+    "audio_note_en": "Background audio: the original Song of the Westward Migration, sung a cappella by Tong Limei (age 93), national-level bearer of this intangible cultural heritage (recorded 2022, source: bilibili BV1xG411E7pM; rights belong to the performer)"
+  },
+  "scenes": [
+    {
+      "id": "s01",
+      "no": 1,
+      "title_zh": "圣旨",
+      "title_en": "The Decree",
+      "tone": "warm",
+      "lyric_zh": "清朝皇帝有圣旨，传谕沈阳的锡伯人，抽调官兵三千人，驻防伊犁到边陲。",
+      "lyric_en": "The Qing emperor issues a decree, proclaimed to the Xibe of Shenyang: three thousand troops shall be drawn, to garrison Ili on the farthest frontier.",
+      "caption_zh": "乾隆二十九年（1764）春，圣旨传到盛京。这不是一支军队的调动，而是一千多个家庭的整体搬迁——按《清实录》的筹划，锡伯兵连同家眷共三千余口。",
+      "caption_en": "In the spring of 1764 the decree reached Shengjing. This was no transfer of an army but the uprooting of a thousand households — court papers reckon the troops plus dependants at over three thousand souls.",
+      "image_hint": "1764 Shengjing (Mukden), Qing officials reading an imperial edict before assembled Xibe banner soldiers and families in the courtyard of the Taiping family temple, spring light, solemn faces, yellow silk edict scroll",
+      "link": {
+        "anchor": "stop-shengjing",
+        "label_zh": "见于主馆第一章 · 第1站 盛京",
+        "label_en": "Act I · Stop 1, Shengjing"
+      },
+      "audio": "song-01.mp3"
+    },
+    {
+      "id": "s02",
+      "no": 2,
+      "title_zh": "饯别",
+      "title_en": "The Farewell Meal",
+      "tone": "warm",
+      "lyric_zh": "断肠节气应备饯别饭，观天择吉四月十八日。",
+      "lyric_en": "On that heart-rending day the farewell meal is set; the heavens are consulted — the eighteenth of the fourth month is chosen.",
+      "caption_zh": "行前，族人在盛京的锡伯家庙太平寺聚会，择定四月十八日启程。这一天从此成为锡伯族最重要的节日——西迁节，至今每年农历四月十八仍在过。",
+      "caption_en": "Before departure the families gathered at Shengjing's Xibe ancestral temple and chose the eighteenth of the fourth month to set out. The date became the Xibe's great festival — Westward Migration Day, still kept every year.",
+      "image_hint": "farewell banquet in the courtyard of a Manchurian temple, long tables, families eating together one last time, banners and incense, bittersweet warmth, spring blossoms",
+      "link": {
+        "anchor": "stop-shengjing",
+        "label_zh": "见于主馆第一章 · 第1站 盛京",
+        "label_en": "Act I · Stop 1, Shengjing"
+      },
+      "audio": "song-02.mp3"
+    },
+    {
+      "id": "s03",
+      "no": 3,
+      "title_zh": "辞坟",
+      "title_en": "Leaving the Graves",
+      "tone": "cold",
+      "lyric_zh": "留此秃坟，焚纸是谁？举家而行，添土是谁？",
+      "lyric_en": "Leaving bare graves behind — who will burn the spirit money now? The whole family marches on — who will heap the fresh earth?",
+      "caption_zh": "西迁是携眷移驻：祖坟带不走。长诗里最痛的一段，不是路途之苦，而是从此无人扫墓。",
+      "caption_en": "The migration was with families — and the ancestral graves could not come. The bitterest passage of the epic is not the hardship of the road, but that no one will be left to sweep the tombs.",
+      "image_hint": "family kneeling before simple earthen grave mounds at dawn, burning joss paper, smoke rising, bare willows, cuckoo in a bare tree, grey cold light, Manchurian countryside",
+      "link": {
+        "anchor": "stop-shengjing",
+        "label_zh": "见于主馆第一章 · 第1站 盛京",
+        "label_en": "Act I · Stop 1, Shengjing"
+      },
+      "audio": "song-03.mp3"
+    },
+    {
+      "id": "s04",
+      "no": 4,
+      "title_zh": "送别",
+      "title_en": "Seeing Them Off",
+      "tone": "warm",
+      "lyric_zh": "姑父姑姑哀哀来送别……哭干了眼泪行人难久留。",
+      "lyric_en": "Uncles and aunts come weeping to see them off … tears run dry, yet the travellers cannot stay.",
+      "caption_zh": "留在盛京的亲族拦道号啕、牵衣顿足。长诗用一整段写送别，因为每一个西迁家庭的身后，都站着一屋子再不能同行的人。",
+      "caption_en": "The kin who stayed in Shengjing blocked the road wailing, clutching at sleeves. The epic gives a whole passage to the farewell, because behind every family that left stood a household that could not follow.",
+      "image_hint": "village road outside Mukden, elderly relatives clutching the arms of departing soldiers, women wiping tears, ox carts waiting, dust in morning light, emotional but restrained",
+      "link": {
+        "anchor": "stop-shengjing",
+        "label_zh": "见于主馆第一章 · 第1站 盛京",
+        "label_en": "Act I · Stop 1, Shengjing"
+      },
+      "audio": "song-04.mp3"
+    },
+    {
+      "id": "s05",
+      "no": 5,
+      "title_zh": "启程",
+      "title_en": "Setting Out",
+      "tone": "cold",
+      "lyric_zh": "三千余名锡伯人啊离乡背井……吞悲饮泪套上古老的木轮牛车，踏上遥远的征程。",
+      "lyric_en": "Three thousand Xibe leave their native soil … swallowing grief, drinking tears, they yoke the old wooden-wheeled ox carts and set out on the long road.",
+      "caption_zh": "牛车是西迁真正的交通工具：老人、孩子、家当都在车上，男人步行护送。这一走，就是一万多里。",
+      "caption_en": "The ox cart was the true vehicle of the migration: the old, the children, the household goods all aboard, the men walking alongside. The road ahead ran more than ten thousand li.",
+      "image_hint": "long column of wooden-wheeled ox carts leaving a city gate at dawn, men walking beside the carts, a soldier looking back over his shoulder at the city, cold spring morning, mud road",
+      "link": {
+        "anchor": "stop-shengjing",
+        "label_zh": "见于主馆第一章 · 第1站 盛京",
+        "label_en": "Act I · Stop 1, Shengjing"
+      },
+      "audio": "song-05.mp3"
+    },
+    {
+      "id": "s06",
+      "no": 6,
+      "title_zh": "关山",
+      "title_en": "Mountains and Clouds",
+      "tone": "cold",
+      "lyric_zh": "鞭梢系过多少山头的白云，摘下来抒写怀念故乡的诗句。",
+      "lyric_en": "So many mountain clouds caught on the whip's tip — pluck one down and write upon it verses of longing for home.",
+      "caption_zh": "出山海关，过草原边缘，路越走越高，故乡越走越低。长诗里的白云，是离家的人给自己找的信物。",
+      "caption_en": "Out through the passes and onto the grassland's rim: the road climbs higher as home sinks lower. The clouds of the epic are keepsakes the exiles gathered for themselves.",
+      "image_hint": "ox carts on a high mountain path above a sea of clouds, a driver's whip raised against white clouds, vast empty horizon behind, wind, austere beauty",
+      "link": {
+        "anchor": "stop-zhangjiakou",
+        "label_zh": "见于主馆第一章 · 第3站 张家口外",
+        "label_en": "Act I · Stop 3, Beyond Zhangjiakou"
+      },
+      "audio": "song-06.mp3"
+    },
+    {
+      "id": "s07",
+      "no": 7,
+      "title_zh": "苦旅",
+      "title_en": "The Hard Road",
+      "tone": "cold",
+      "lyric_zh": "妇女分娩，襄布何在？……细谷架桥，七十有二。",
+      "lyric_en": "A woman gives birth on the road — where is the swaddling cloth? … Bridges laid over torrents — seventy-two of them.",
+      "caption_zh": "长诗不避讳路上的生与死：有孩子在牛车上出生，没有裹布的绸缎；有七十二座桥，是队伍在激流上一座一座架起来的。",
+      "caption_en": "The epic does not hide the births and deaths of the road: children born on the carts with no silk to wrap them; and seventy-two bridges, built one by one across the torrents.",
+      "image_hint": "migrants building a makeshift wooden bridge over a rushing mountain stream, men in the water hauling logs, a woman shielding an infant in a cart nearby, rain, desperate teamwork",
+      "link": {
+        "anchor": "stop-urga",
+        "label_zh": "见于主馆第一章 · 第4站 库伦",
+        "label_en": "Act I · Stop 4, Urga"
+      },
+      "audio": "song-07.mp3"
+    },
+    {
+      "id": "s08",
+      "no": 8,
+      "title_zh": "越冬",
+      "title_en": "Wintering Over",
+      "tone": "cold",
+      "lyric_zh": "手执长矛问苍天：什么样的路不可以攀登，什么样的关不可以闯过？",
+      "lyric_en": "Spear in hand they ask the heavens: what road is there we cannot climb, what pass we cannot force?",
+      "caption_zh": "队伍在乌里雅苏台越冬。朝廷的三万只羊在此交割——按定例每兵二十五只——人裹着皮袄，羊挤着羊，等春天。（本幕歌词取自原诗第三部分，为画面调序。）",
+      "caption_en": "The column wintered at Uliastai, where the court's thirty thousand sheep were handed over — twenty-five per soldier by regulation. Men in leather coats, sheep against sheep, waiting for spring. (Lyric from Part III, reordered for the image.)",
+      "image_hint": "winter camp on the Mongolian steppe, yurts and tents in snow, a huge flock of sheep huddled together, soldiers with spears silhouetted against a vast cold sky, one campfire glowing",
+      "link": {
+        "anchor": "stop-uliastai",
+        "label_zh": "见于主馆第一章 · 第5站 乌里雅苏台",
+        "label_en": "Act I · Stop 5, Uliastai"
+      },
+      "audio": "song-08.mp3"
+    },
+    {
+      "id": "s09",
+      "no": 9,
+      "title_zh": "抵达",
+      "title_en": "Arrival",
+      "tone": "warm",
+      "lyric_zh": "七月十九，终抵伊犁。",
+      "lyric_en": "On the nineteenth of the seventh month, they reach Ili at last.",
+      "caption_zh": "乾隆三十年（1765）七月十九日，队伍望见伊犁河。一年多、一万多里，长诗只用七个字写抵达——因为真正难写的，是之后怎么活下去。",
+      "caption_en": "On 19 July 1765 the column caught sight of the Ili river. Over a year, over ten thousand li — the epic gives arrival just seven characters, because the harder story was how to live on after it.",
+      "image_hint": "weary migrants on a rise seeing the wide shining Ili river for the first time at sunset, snow mountains beyond, a child pointing, ox carts behind, golden hopeful light",
+      "link": {
+        "anchor": "stop-ili",
+        "label_zh": "见于主馆第一章 · 第8站 伊犁河南岸",
+        "label_en": "Act I · Stop 8, the Ili South Bank"
+      },
+      "audio": "song-09.mp3"
+    },
+    {
+      "id": "s10",
+      "no": 10,
+      "title_zh": "立足",
+      "title_en": "A Foothold",
+      "tone": "warm",
+      "lyric_zh": "一手握着铣锨改造自然，修成了波光粼粼的绰霍尔渠。",
+      "lyric_en": "With one hand they grasp the spade to remake nature, and cut the shimmering Qohqar canal.",
+      "caption_zh": "锡伯营初编六牛录，后成八旗，沿绰霍尔渠各筑城堡，'因地自行搭盖窝棚'。先有水，才有家；先活下来，才谈得上戍边。",
+      "caption_en": "The Xibe battalion was organised into six, then eight companies, each building its fort along the Qohqar canal, \"putting up shelters where the land allowed\". Water first, then homes; survival first, then the frontier.",
+      "image_hint": "Xibe families digging an irrigation canal across dry land, first crops in new fields, half-built rammed earth homes behind, poplars, hard work in warm light",
+      "link": {
+        "anchor": "stop-ili",
+        "label_zh": "见于主馆第一章 · 第8站 伊犁河南岸",
+        "label_en": "Act I · Stop 8, the Ili South Bank"
+      },
+      "audio": "song-10.mp3"
+    },
+    {
+      "id": "s11",
+      "no": 11,
+      "title_zh": "大渠",
+      "title_en": "The Grand Canal",
+      "tone": "warm",
+      "lyric_zh": "两千五百多个日日夜夜奋斗不息……人们光荣地命名为'察布查尔大渠'。",
+      "lyric_en": "Two thousand five hundred days and nights of unceasing toil … and the people give it a glorious name: the Qapqal Grand Canal.",
+      "caption_zh": "嘉庆元年（1796），锡伯营总管图伯特倡导并指挥开挖大渠，引伊犁河水灌田。至1908年，这条渠'分饮八处牛录屯工，无余流'——今天察布查尔的村镇格局，仍是这条渠写出来的。",
+      "caption_en": "In 1796 Tubet, commander of the battalion, proposed and directed the digging of the Grand Canal, bringing Ili water to the fields. By 1908 it \"watered all eight niru fields with nothing to spare\" — the map of today's Qapqal is still written by this canal.",
+      "image_hint": "commander Tubet on horseback directing hundreds of soldier-farmers digging a great canal, first water surging into the dry channel, crowds watching, mountains behind, monumental and hopeful",
+      "link": {
+        "anchor": "act3",
+        "label_zh": "见于主馆第三章 · 戍边生活",
+        "label_en": "Act III · Garrison Life"
+      },
+      "audio": "song-11.mp3"
+    },
+    {
+      "id": "s12",
+      "no": 12,
+      "title_zh": "戍边·望乡",
+      "title_en": "The Watch, and Home",
+      "tone": "warm",
+      "lyric_zh": "一手拿着弓箭保卫国土，不让豺狼践踏卡伦的旌旗。……雄伟的乌孙山可以作证锡伯的忠诚。",
+      "lyric_en": "With one hand they hold bow and arrow to guard the land, letting no jackal trample the karun's banner … The mighty Wusun mountains bear witness to the loyalty of the Xibe.",
+      "caption_zh": "此后两百多年，锡伯营守着伊犁河南岸的卡伦线。长诗的结尾不在路上，而在山上——故乡在东北三千里外，新的故乡在乌孙山下。",
+      "caption_en": "For two centuries after, the battalion kept the karun line on the Ili's south bank. The epic ends not on the road but on the mountain: the old home three thousand li northeast, the new one beneath the Wusun range.",
+      "image_hint": "a lone Xibe soldier on a karun watchtower at dusk looking northeast, banner on the wall, vast mountains glowing in last light, river valley below, loyal and wistful mood",
+      "link": {
+        "anchor": "act3",
+        "label_zh": "见于主馆第三章 · 卡伦人家",
+        "label_en": "Act III · Karun and Home"
+      },
+      "audio": "song-12.mp3"
+    }
+  ]
+}

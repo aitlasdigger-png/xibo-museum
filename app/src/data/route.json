@@ -1,0 +1,82 @@
+[
+ {
+  "id": "shengjing",
+  "coord": [
+   123.46,
+   41.94
+  ],
+  "name_zh": "盛京（沈阳）",
+  "name_en": "Shengjing",
+  "year": "1764"
+ },
+ {
+  "id": "north_of_beijing",
+  "coord": [
+   116.6,
+   40.2
+  ],
+  "name_zh": "北京以北",
+  "name_en": "North of Beijing",
+  "year": ""
+ },
+ {
+  "id": "zhangjiakou",
+  "coord": [
+   113.1,
+   41.0
+  ],
+  "name_zh": "张家口",
+  "name_en": "Zhangjiakou",
+  "year": ""
+ },
+ {
+  "id": "urga",
+  "coord": [
+   106.9,
+   47.9
+  ],
+  "name_zh": "库伦",
+  "name_en": "Urga",
+  "year": ""
+ },
+ {
+  "id": "uliastai",
+  "coord": [
+   96.8,
+   47.7
+  ],
+  "name_zh": "乌里雅苏台",
+  "name_en": "Uliastai",
+  "year": ""
+ },
+ {
+  "id": "khovd",
+  "coord": [
+   91.6,
+   48.0
+  ],
+  "name_zh": "科布多",
+  "name_en": "Khovd",
+  "year": ""
+ },
+ {
+  "id": "tacheng",
+  "coord": [
+   83.0,
+   46.75
+  ],
+  "name_zh": "塔尔巴哈台",
+  "name_en": "Tarbagatai",
+  "year": ""
+ },
+ {
+  "id": "ili",
+  "coord": [
+   80.92,
+   43.94
+  ],
+  "name_zh": "伊犁河南岸",
+  "name_en": "Ili South Bank",
+  "year": "1765"
+ }
+]
