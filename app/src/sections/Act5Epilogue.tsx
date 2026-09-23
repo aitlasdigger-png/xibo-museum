@@ -13,9 +13,37 @@ export default function Act5Epilogue() {
       <div style={{ maxWidth: 1280, margin: '0 auto', padding: '0 24px' }}>
         <Kicker>{t('act5_kicker')}</Kicker>
         <ActTitle>{L(lang, env.title_zh, env.title_en)}</ActTitle>
-        <p style={{ maxWidth: 860, lineHeight: 2, fontSize: 15, color: PAL.ink }}>
-          {L(lang, env.text_zh, env.text_en)}
-        </p>
+        <div style={{
+          display: 'grid',
+          gridTemplateColumns: 'minmax(0, 1fr) minmax(0, 1.2fr)',
+          gap: 48,
+          alignItems: 'center',
+          margin: '30px 0 60px',
+        }} className="env-layout">
+          <p style={{ lineHeight: 2, fontSize: 15, color: PAL.ink, margin: 0 }}>
+            {L(lang, env.text_zh, env.text_en)}
+          </p>
+          {/* YouTube video placeholder */}
+          <div>
+            <p style={{
+              fontSize: 11, letterSpacing: '0.2em', textTransform: 'uppercase',
+              color: PAL.vermil, fontWeight: 600, marginBottom: 10,
+            }}>
+              {t('curator_video_title')}
+            </p>
+            <div style={{
+              position: 'relative', aspectRatio: '16 / 9',
+              background: PAL.inkDeep, borderRadius: 3,
+              display: 'flex', alignItems: 'center', justifyContent: 'center',
+              border: `1px solid ${PAL.sepia}55`,
+            }}>
+              <div style={{ textAlign: 'center', color: `${PAL.paperDk}88`, fontSize: 13, lineHeight: 1.8 }}>
+                <div style={{ fontSize: 28, marginBottom: 8, opacity: 0.5 }}>▶</div>
+                {t('curator_video_placeholder')}
+              </div>
+            </div>
+          </div>
+        </div>
 
         <div style={{ margin: '60px 0' }}>
           <QuoteBlock
@@ -86,27 +114,6 @@ export default function Act5Epilogue() {
                   </figcaption>
                 </figure>
               ))}
-            </div>
-          </div>
-
-          {/* YouTube video placeholder */}
-          <div style={{ maxWidth: 720, margin: '40px 0 0' }}>
-            <p style={{
-              fontSize: 11, letterSpacing: '0.2em', textTransform: 'uppercase',
-              color: PAL.vermil, fontWeight: 600, marginBottom: 10,
-            }}>
-              {t('curator_video_title')}
-            </p>
-            <div style={{
-              position: 'relative', aspectRatio: '16 / 9',
-              background: PAL.inkDeep, borderRadius: 3,
-              display: 'flex', alignItems: 'center', justifyContent: 'center',
-              border: `1px solid ${PAL.sepia}55`,
-            }}>
-              <div style={{ textAlign: 'center', color: `${PAL.paperDk}88`, fontSize: 13, lineHeight: 1.8 }}>
-                <div style={{ fontSize: 28, marginBottom: 8, opacity: 0.5 }}>▶</div>
-                {t('curator_video_placeholder')}
-              </div>
             </div>
           </div>
 

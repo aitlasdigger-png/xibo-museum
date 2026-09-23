@@ -22,12 +22,12 @@ const NIULU_IMG: Record<string, string> = {
   'nadaqi-niru': '/assets/img/canal-1796.jpg',
 }
 
-const SKETCHFAB_MODELS: { karunId: string; uid: string; name_zh: string; name_en: string }[] = [
-  { karunId: 'nikan-kashayan-karun', uid: 'd5c3533515df4a4e8501932e365cf0ee', name_zh: '沙彦卡伦', name_en: 'Shayan Karun' },
-  { karunId: 'touhu-karun',          uid: '9b7f6b94a09d4b11a8c0343a66605e7d', name_zh: '头湖卡伦', name_en: 'Touhu Karun' },
-  { karunId: 'wutongzi-karun',       uid: '126d89b789774757b76f76387a51536e', name_zh: '梧桐孜卡伦', name_en: 'Wutongzi Karun' },
-  { karunId: 'nadanmu-karun',        uid: 'a27e0a716ee04857a6cd44f4a4b2e553', name_zh: '纳旦木卡伦', name_en: 'Nadanmu Karun' },
-  { karunId: 'dolantu-karun',        uid: '13f8ca633f454a4da3b699644f47a3a9', name_zh: '多兰图卡伦', name_en: 'Dolantu Karun' },
+const SKETCHFAB_MODELS: { karunId: string; uid: string; slug: string; name_zh: string; name_en: string }[] = [
+  { karunId: 'nikan-kashayan-karun', uid: 'd5c3533515df4a4e8501932e365cf0ee', slug: 'shayan-karun', name_zh: '沙彦卡伦', name_en: 'Shayan Karun' },
+  { karunId: 'touhu-karun',          uid: '9b7f6b94a09d4b11a8c0343a66605e7d', slug: 'touhu-kalun', name_zh: '头湖卡伦', name_en: 'Touhu Karun' },
+  { karunId: 'wutongzi-karun',       uid: '126d89b789774757b76f76387a51536e', slug: 'wutongzi-kalun', name_zh: '梧桐孜卡伦', name_en: 'Wutongzi Karun' },
+  { karunId: 'nadanmu-karun',        uid: 'a27e0a716ee04857a6cd44f4a4b2e553', slug: 'nandanmu-karun', name_zh: '纳旦木卡伦', name_en: 'Nadanmu Karun' },
+  { karunId: 'dolantu-karun',        uid: '13f8ca633f454a4da3b699644f47a3a9', slug: 'duolantu-karun', name_zh: '多兰图卡伦', name_en: 'Dolantu Karun' },
 ]
 const sketchfabOf = (karunId: string) => SKETCHFAB_MODELS.find((m) => m.karunId === karunId)
 const sketchfabEmbed = (uid: string) =>
@@ -374,7 +374,7 @@ export default function Act3Karun() {
                       → {L(lang, '打开完整档案', 'Open full dossier')}
                     </button>
                     <a
-                      href={`https://sketchfab.com/3d-models/-${sf.uid}`}
+                      href={`https://sketchfab.com/3d-models/${sf.slug}-${sf.uid}`}
                       target="_blank" rel="noopener noreferrer"
                       style={{
                         cursor: 'pointer', background: 'none',
