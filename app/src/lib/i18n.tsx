@@ -135,7 +135,7 @@ const dict = {
   act5_title: { en: 'How this museum was made', zh: '本馆如何建成' },
   curator_title: { en: "Curator's Note", zh: '策展人手记' },
   curator_subtitle: { en: 'The Potted Plant Returns to Its Original Flower Field', zh: '盆栽回到它原来的花田' },
-  curator_author: { en: 'Yufan Matthew Xue', zh: '薛宇凡' },
+  curator_author: { en: 'Yufan Matthew Xue', zh: '薛煜凡' },
   curator_contact: { en: 'Questions? Reach me at', zh: '欢迎来信交流' },
   curator_video_title: { en: 'The Museum in Motion', zh: '动态博物馆' },
   curator_photos_title: { en: 'Field Notes', zh: '田野手记' },
