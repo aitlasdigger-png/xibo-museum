@@ -82,6 +82,8 @@ html { scroll-behavior: smooth; }
   .act1-grid > div:first-child { position: relative !important; top: 0 !important; }
   .act1-map { height: 52vh; }
   .act2-map, .act3-map, .act4-map { height: 56vh; }
+  .curator-layout { grid-template-columns: 1fr !important; }
+  .curator-photos { position: relative !important; top: 0 !important; }
 }
 @media (max-width: 760px) {
   .topnav-links a { display: none; }

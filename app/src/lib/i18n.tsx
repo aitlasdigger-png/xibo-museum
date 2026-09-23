@@ -133,6 +133,13 @@ const dict = {
 
   act5_kicker: { en: 'Colophon', zh: '尾声' },
   act5_title: { en: 'How this museum was made', zh: '本馆如何建成' },
+  curator_title: { en: "Curator's Note", zh: '策展人手记' },
+  curator_subtitle: { en: 'The Potted Plant Returns to Its Original Flower Field', zh: '盆栽回到它原来的花田' },
+  curator_author: { en: 'Yufan Matthew Xue', zh: '薛宇凡' },
+  curator_contact: { en: 'Questions? Reach me at', zh: '欢迎来信交流' },
+  curator_video_title: { en: 'The Museum in Motion', zh: '动态博物馆' },
+  curator_photos_title: { en: 'Field Notes', zh: '田野手记' },
+  curator_video_placeholder: { en: 'A short video about this museum — coming soon', zh: '关于本馆的短片——即将上线' },
   colophon_content: {
     en: 'All historical text is based on Hao Yuanlin’s archaeological monograph Western Shield of the Frontier (Science Press, 2023); quotations are from primary sources cited therein. Scene images are AI-generated reconstructions; archival photographs are public-domain works from Wikimedia Commons. Basemap data © OpenStreetMap contributors, served by OpenFreeMap; terrain shading from Mapterhorn.',
     zh: '本馆全部历史文字以郝园林《西陲屏藩——清代伊犁河谷驻防城的考古学研究》（科学出版社，2023）为依据，引文出自书中所引一手史料；场景图像为 AI 生成复原；历史照片为维基共享资源公有领域作品。底图数据 © OpenStreetMap contributors，由 OpenFreeMap 提供；地形晕渲来自 Mapterhorn。',
