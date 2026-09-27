@@ -23,7 +23,7 @@ export default function Act5Epilogue() {
           <p style={{ lineHeight: 2, fontSize: 15, color: PAL.ink, margin: 0 }}>
             {L(lang, env.text_zh, env.text_en)}
           </p>
-          {/* YouTube video placeholder */}
+          {/* YouTube video */}
           <div>
             <p style={{
               fontSize: 11, letterSpacing: '0.2em', textTransform: 'uppercase',
@@ -33,14 +33,17 @@ export default function Act5Epilogue() {
             </p>
             <div style={{
               position: 'relative', aspectRatio: '16 / 9',
-              background: PAL.inkDeep, borderRadius: 3,
-              display: 'flex', alignItems: 'center', justifyContent: 'center',
+              borderRadius: 3, overflow: 'hidden',
               border: `1px solid ${PAL.sepia}55`,
             }}>
-              <div style={{ textAlign: 'center', color: `${PAL.paperDk}88`, fontSize: 13, lineHeight: 1.8 }}>
-                <div style={{ fontSize: 28, marginBottom: 8, opacity: 0.5 }}>▶</div>
-                {t('curator_video_placeholder')}
-              </div>
+              <iframe
+                src={`https://www.youtube-nocookie.com/embed/${curator.video_id}?rel=0`}
+                title="Traces of the Xibe — museum video"
+                style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', border: 0 }}
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen
+                loading="lazy"
+              />
             </div>
           </div>
         </div>
